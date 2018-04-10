@@ -14,6 +14,9 @@ required-features = ["verification"]
 [[bin]]
 name = "compute"
 
+[[bin]]
+name = "verify_transform"
+
 [dependencies]
 phase2 = "0.2.1"
 pairing = "0.14"

@@ -13,13 +13,13 @@ fn main() {
     let params = File::open("params").unwrap();
     let mut params = BufReader::with_capacity(1024 * 1024, params);
 
-    let sapling_spend = phase2::MPCParameters::read(&mut params, false)
+    let sapling_spend = phase2::MPCParameters::read(&mut params, true)
         .expect("couldn't deserialize Sapling Spend params");
 
-    let sapling_output = phase2::MPCParameters::read(&mut params, false)
+    let sapling_output = phase2::MPCParameters::read(&mut params, true)
         .expect("couldn't deserialize Sapling Output params");
 
-    let sprout_joinsplit = phase2::MPCParameters::read(&mut params, false)
+    let sprout_joinsplit = phase2::MPCParameters::read(&mut params, true)
         .expect("couldn't deserialize Sprout JoinSplit params");
 
     let sapling_spend_contributions = sapling_spend.verify(sapling_crypto::circuit::sapling::Spend {
