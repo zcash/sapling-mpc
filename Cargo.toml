@@ -17,6 +17,9 @@ name = "compute"
 [[bin]]
 name = "verify_transform"
 
+[[bin]]
+name = "split_params"
+
 [dependencies]
 phase2 = "0.2.1"
 pairing = "0.14"
