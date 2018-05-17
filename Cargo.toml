@@ -1,6 +1,6 @@
 [package]
 name = "sapling-mpc"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Sean Bowe <ewillbefull@gmail.com>"]
 
 [[bin]]
@@ -28,9 +28,10 @@ blake2-rfc = "0.2"
 
 [dependencies.sapling-crypto]
 git = "https://github.com/zcash-hackworks/sapling-crypto"
-rev = "e554b473dd10885d232f42237c13282f5b6fee43"
+rev = "eb409fa3cf8df215ae8d35f5e385751a0c5ffb85"
 optional = true
 
 [features]
 verification = ["sapling-crypto"]
 u128-support = ["pairing/u128-support"]
+default = ["u128-support"]
