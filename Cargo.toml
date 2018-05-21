@@ -34,4 +34,3 @@ optional = true
 [features]
 verification = ["sapling-crypto"]
 u128-support = ["pairing/u128-support"]
-default = ["u128-support"]
