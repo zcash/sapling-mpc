@@ -12,6 +12,10 @@ name = "verify"
 required-features = ["verification"]
 
 [[bin]]
+name = "beacon"
+required-features = ["beacon"]
+
+[[bin]]
 name = "compute"
 
 [[bin]]
@@ -26,11 +30,20 @@ pairing = "0.14"
 rand = "0.4"
 blake2-rfc = "0.2"
 
+[dependencies.byteorder]
+version = "1"
+optional = true
+
 [dependencies.sapling-crypto]
 git = "https://github.com/zcash-hackworks/sapling-crypto"
 rev = "eb409fa3cf8df215ae8d35f5e385751a0c5ffb85"
 optional = true
 
+[dependencies.hex-literal]
+version = "0.1"
+optional = true
+
 [features]
 verification = ["sapling-crypto"]
 u128-support = ["pairing/u128-support"]
+beacon = ["byteorder", "hex-literal"]
