@@ -34,7 +34,7 @@ fn main() {
         use rand::chacha::ChaChaRng;
 
         // Place beacon value here (2^42 SHA256 hash of Bitcoin block hash #534861)
-        let beacon_value: [u8; 32] = hex!("0000000000000000000000000000000000000000000000000000000000000000");
+        let beacon_value: [u8; 32] = hex!("2bf41a959668e5b9b688e58d613b3dcc99ee159a880cf764ec67e6488d8b8af3");
 
         print!("Final result of beacon: ");
         for b in beacon_value.iter() {
