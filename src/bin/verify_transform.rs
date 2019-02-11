@@ -1,10 +1,10 @@
-extern crate phase2;
-extern crate pairing;
 extern crate blake2_rfc;
+extern crate pairing;
+extern crate phase2;
 
+use blake2_rfc::blake2b::Blake2b;
 use std::fs::File;
 use std::io::BufReader;
-use blake2_rfc::blake2b::Blake2b;
 
 fn main() {
     let params = File::open("params").unwrap();
@@ -33,17 +33,17 @@ fn main() {
 
     let h1 = match phase2::verify_contribution(&sapling_spend, &new_sapling_spend) {
         Ok(hash) => hash,
-        Err(_) => panic!("invalid transformation!")
+        Err(_) => panic!("invalid transformation!"),
     };
 
     let h2 = match phase2::verify_contribution(&sapling_output, &new_sapling_output) {
         Ok(hash) => hash,
-        Err(_) => panic!("invalid transformation!")
+        Err(_) => panic!("invalid transformation!"),
     };
 
     let h3 = match phase2::verify_contribution(&sprout_joinsplit, &new_sprout_joinsplit) {
         Ok(hash) => hash,
-        Err(_) => panic!("invalid transformation!")
+        Err(_) => panic!("invalid transformation!"),
     };
 
     let mut h = Blake2b::new(64);

@@ -1,18 +1,18 @@
-extern crate phase2;
-extern crate pairing;
-extern crate rand;
 extern crate blake2_rfc;
+extern crate pairing;
+extern crate phase2;
+extern crate rand;
 
-use std::fs::File;
-use std::io::{BufWriter, BufReader};
 use blake2_rfc::blake2b::Blake2b;
+use std::fs::File;
+use std::io::{BufReader, BufWriter};
 
 fn main() {
     let current_params = File::open("params").expect("couldn't open `./params`");
-    let mut current_params = BufReader::with_capacity(1024*1024, current_params);
+    let mut current_params = BufReader::with_capacity(1024 * 1024, current_params);
 
     let new_params = File::create("new_params").expect("couldn't create `./new_params`");
-    let mut new_params = BufWriter::with_capacity(1024*1024, new_params);
+    let mut new_params = BufWriter::with_capacity(1024 * 1024, new_params);
 
     let mut sapling_spend = phase2::MPCParameters::read(&mut current_params, false)
         .expect("couldn't deserialize Sapling Spend params");
@@ -29,9 +29,15 @@ fn main() {
     let h2 = sapling_output.contribute(rng);
     let h3 = sprout_joinsplit.contribute(rng);
 
-    sapling_spend.write(&mut new_params).expect("couldn't write new Sapling Spend params");
-    sapling_output.write(&mut new_params).expect("couldn't write new Sapling Spend params");
-    sprout_joinsplit.write(&mut new_params).expect("couldn't write new Sapling Spend params");
+    sapling_spend
+        .write(&mut new_params)
+        .expect("couldn't write new Sapling Spend params");
+    sapling_output
+        .write(&mut new_params)
+        .expect("couldn't write new Sapling Spend params");
+    sprout_joinsplit
+        .write(&mut new_params)
+        .expect("couldn't write new Sapling Spend params");
 
     let mut h = Blake2b::new(64);
     h.update(&h1);
@@ -39,9 +45,11 @@ fn main() {
     h.update(&h3);
     let h = h.finalize();
 
-    print!("Done!\n\n\
-              Your contribution has been written to `./new_params`\n\n\
-              The contribution you made is bound to the following hash:\n");
+    print!(
+        "Done!\n\n\
+         Your contribution has been written to `./new_params`\n\n\
+         The contribution you made is bound to the following hash:\n"
+    );
 
     for line in h.as_ref().chunks(16) {
         print!("\t");

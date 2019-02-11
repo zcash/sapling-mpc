@@ -25,6 +25,7 @@ name = "verify_transform"
 name = "split_params"
 
 [dependencies]
+dirs = { version = "1", optional = true }
 phase2 = "0.2.1"
 pairing = "0.14"
 rand = "0.4"
@@ -44,6 +45,6 @@ version = "0.1"
 optional = true
 
 [features]
-verification = ["sapling-crypto"]
+verification = ["dirs", "sapling-crypto"]
 u128-support = ["pairing/u128-support"]
 beacon = ["byteorder", "hex-literal"]
