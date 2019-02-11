@@ -2,7 +2,25 @@
 
 This code can be used to participate and verify the Sapling network upgrade MPC.
 
-## What do I do?
+## How do I verify the Sapling parameters?
+
+1. Download these three files from the [Powers of Tau ceremony](https://lists.zfnd.org/pipermail/zapps-wg/2018/000362.html) and place them in your current directory:
+   * `phase1radix2m13`
+   * `phase1radix2m17`
+   * `phase1radix2m21`
+
+2. Ensure you have downloaded the Sapling parameters. If you have Zcash installed on Debian or Ubuntu, you can run `zcash-fetch-params` to obtain them; otherwise, download the Zcash source code, and then run `./zcutil/fetch-params.sh` to obtain them.
+
+3. Run the following command:
+   ```sh
+   cargo run --release --bin verify --features="verification"
+   ```
+
+## How do I participate?
+
+The Sapling ceremony is complete!
+
+### How did participation work?
 
 Contact **mpc@z.cash** to schedule a time to participate. You'll need the latest (stable) [Rust compiler](https://www.rust-lang.org/) to participate using this code.
 
