@@ -78,6 +78,7 @@ fn main() {
         }
     };
 
+    println!("Verifying Sapling spend parameters...");
     let sapling_spend_contributions = sapling_spend
         .verify(sapling_crypto::circuit::sapling::Spend {
             params: &jubjub_params,
@@ -91,6 +92,7 @@ fn main() {
         })
         .expect("parameters are invalid");
 
+    println!("Verifying Sapling output parameters...");
     let sapling_output_contributions = sapling_output
         .verify(sapling_crypto::circuit::sapling::Output {
             params: &jubjub_params,
@@ -101,6 +103,7 @@ fn main() {
         })
         .expect("parameters are invalid");
 
+    println!("Verifying Sprout parameters...");
     let sprout_joinsplit_contributions = sprout_joinsplit
         .verify(sapling_crypto::circuit::sprout::JoinSplit {
             vpub_old: None,
@@ -139,6 +142,7 @@ fn main() {
         })
         .expect("parameters are invalid");
 
+    println!("Parameters verified! Here is the list of contribution hashes:");
     for ((a, b), c) in sapling_spend_contributions
         .into_iter()
         .zip(sapling_output_contributions.into_iter())
