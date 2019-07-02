@@ -19,7 +19,7 @@ If you are running on windows, refer to [rust](https://www.rust-lang.org/learn/g
 3.Get the source code of project sapling-mpc:
 
 ```
-git clone https://github.com/zcash-hackworks/sapling-mpc
+git clone https://github.com/tronprotocol/sapling-mpc
 ```
 if git not installed, please refer to [git](https://git-scm.com/downloads) first.
 
