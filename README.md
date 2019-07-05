@@ -23,7 +23,7 @@ git clone https://github.com/tronprotocol/sapling-mpc
 ```
 if git not installed, please refer to [git](https://git-scm.com/downloads) first.
 
-4.Place `params` file in the sapling-mpc directory and run:
+4.Download [phase_1_files](https://mpcfilepub.oss-us-east-1.aliyuncs.com/powersoftau/phase_1_files.tar), uncompress it into the directory sapling-mpc. Place `params` file in the sapling-mpc directory. Then run:
 
 ```
 cargo run --release --bin compute
