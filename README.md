@@ -21,7 +21,7 @@ If you are running on windows, refer to [rust](https://www.rust-lang.org/learn/g
 ```
 if git not installed, please refer to [git](https://git-scm.com/downloads) first.
 
-4.Place received `params` file in the sapling-mpc directory, then run:
+4.Download the `params` file by the link in the email sent by tron and put `params` file in the sapling-mpc directory, then run:
 ```
 # cargo run --release --bin compute
 ```
