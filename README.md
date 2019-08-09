@@ -2,7 +2,7 @@
 
 This code can be used to participate Multi-party Computation(MPC) phase 2 and verify the result.
 
-## Instructions
+## What do I do?
 
 Contact **jiangyuanshu@tron.network** to schedule a time to participate and get an index num. When it's your turn, you'll receive a `params` file from us.
 
@@ -30,7 +30,7 @@ The process could take one to four hours according to your hardware, occupies 1.
 
 5.You are encouraged to send file `new_params` to us with keybase, and send us the hash value and your system configuration information with email, such as os version, cpu model. After we receive this `new_params` file, we will check the correctness of transformation and upload it to amazon storage if ok that next participant can use it, then we will also publish hash on [project wiki](https://github.com/tronprotocol/sapling-mpc/wiki).
 
-## Dependent
+## Dependency
 We reuse the phase 2 result of zcash https://storage.googleapis.com/sapling-mpc/params as the first params of our ceremony. At the end of ceremony, we generate the random beacon by using one Bitcoin block's hash as the seed of pseudo random number generator, the block's height will not be determined until last participant completes.
 
 ## License
