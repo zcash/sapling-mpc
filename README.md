@@ -4,7 +4,7 @@ This code can be used to participate Multi-party Computation(MPC) phase 2 and ve
 
 ## What do I do?
 
-Contact **jiangyuanshu@tron.network** to schedule a time to participate and get an index num. When it's your turn, you'll receive a `params` file from us.
+Contact **jiangyuanshu@tron.network** to schedule a time to participate and get an index num. When it's your turn, you'll receive one mail with `params` file link from us.
 
 1.Download and install IM tool [keybase](https://keybase.io/), if you don't have an account, create it first. You can use it to send file back to us later, our keybase account is `tron_brown`.
 
@@ -21,7 +21,7 @@ If you are running on windows, refer to [rust](https://www.rust-lang.org/learn/g
 ```
 if git not installed, please refer to [git](https://git-scm.com/downloads) first.
 
-4.Place `params` file in the sapling-mpc directory, then run:
+4.Place received `params` file in the sapling-mpc directory, then run:
 ```
 # cargo run --release --bin compute
 ```
