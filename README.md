@@ -18,7 +18,7 @@ This document can be used to participate Multi-party Computation(MPC) phase 2 an
 ```
 # curl https://sh.rustup.rs -sSf | sh
 ```
-If you are running on windows, refer to [rust](https://www.rust-lang.org/learn/get-started) homepage for installation.
+  If you are running on windows, refer to [rust](https://www.rust-lang.org/learn/get-started) homepage for installation.
 
 7. Get the source code of project sapling-mpc:
 ```
