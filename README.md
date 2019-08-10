@@ -33,6 +33,7 @@ This document can be used to participate Multi-party Computation(MPC) phase 2 an
 # cargo run --release --bin compute
 ```
 &emsp;&emsp;When it finish, you will get a `new_params` file and hash.
+&emsp;&emsp; You can find the hash and `new_params` as follows:
 
 ![](https://raw.githubusercontent.com/tronprotocol/documentation-EN/master/docs_without_index/MPC/sapling-output.jpg)
 
