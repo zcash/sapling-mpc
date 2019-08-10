@@ -34,8 +34,9 @@ This document can be used to participate Multi-party Computation(MPC) phase 2 an
 ```
 &emsp;&emsp;When it finish, you will get a `new_params` file and hash.
 
-&emsp;&emsp;Notice: this process could take one to four hours according to your hardware, occupies 1.5 ~ 2GB of memory.
 ![](https://raw.githubusercontent.com/tronprotocol/documentation-EN/master/docs_without_index/MPC/sapling-output.jpg)
+
+&emsp;&emsp;Notice: this process could take one to four hours according to your hardware, occupies 1.5 ~ 2GB of memory.
 
 9. Send your result to Tron. Send the file `new_params` by keybase and send hash by email, you can record os version in email, such as windows 10/centos 7.
 
