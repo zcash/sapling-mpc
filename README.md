@@ -20,13 +20,13 @@ This document can be used to participate Multi-party Computation(MPC) phase 2 an
 # curl https://sh.rustup.rs -sSf | sh
 ```
 
-If you are running on windows, refer to [rust](https://www.rust-lang.org/learn/get-started) homepage for installation.
+&emsp;&emsp;If you are running on windows, refer to [rust](https://www.rust-lang.org/learn/get-started) homepage for installation.
 
 7. Get the source code of project sapling-mpc:
 ```
 # git clone https://github.com/tronprotocol/sapling-mpc
 ```
-if git has not been installed on your computer, please refer to [git](https://git-scm.com/downloads) first.
+&emsp;&emsp;if git has not been installed on your computer, please refer to [git](https://git-scm.com/downloads) first.
 
 8. Put `params` file in the sapling-mpc directory, then run:
 ```
@@ -37,7 +37,7 @@ When it finish, you will get a `new_params` file and hash.
 Notice: this process could take one to four hours according to your hardware, occupies 1.5 ~ 2GB of memory.
 ![](https://raw.githubusercontent.com/tronprotocol/documentation-EN/master/docs_without_index/MPC/sapling-output.jpg)
 
-9. Send your result to Tron. Send the file `new_params` by keybase and send hash by email, you can write down os version in email.
+9. Send your result to Tron. Send the file `new_params` by keybase and send hash by email, you can record os version in email, such as windows 10/centos 7.
 
 
 ## Dependency
