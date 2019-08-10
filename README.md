@@ -15,10 +15,12 @@ This document can be used to participate Multi-party Computation(MPC) phase 2 an
 5. Download and install IM tool [keybase](https://keybase.io/), if you don't have an account, create it first and add tron' account to your friends. Tron's account is `tron_brown`.
 
 6. Download Rustup and install Rust, run the following in your terminal, then follow the on-screen instructions if you are running on macOS / Linux / another Unix-like OS:               
+
 ```
 # curl https://sh.rustup.rs -sSf | sh
 ```
-  If you are running on windows, refer to [rust](https://www.rust-lang.org/learn/get-started) homepage for installation.
+
+If you are running on windows, refer to [rust](https://www.rust-lang.org/learn/get-started) homepage for installation.
 
 7. Get the source code of project sapling-mpc:
 ```
@@ -33,8 +35,9 @@ if git has not been installed on your computer, please refer to [git](https://gi
 When it finish, you will get a `new_params` file and hash.
 
 Notice: this process could take one to four hours according to your hardware, occupies 1.5 ~ 2GB of memory.
+![](https://raw.githubusercontent.com/tronprotocol/documentation-EN/master/docs_without_index/MPC/sapling-output.jpg)
 
-9. Send your result to Tron. Send the file `new_params` by keybase and send hash and your system configuration by email and system configuration should coutain os version, cpu model
+9. Send your result to Tron. Send the file `new_params` by keybase and send hash by email, you can write down os version in email.
 
 
 ## Dependency
