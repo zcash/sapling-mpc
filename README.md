@@ -25,7 +25,7 @@ This document is a guide to participating in Multi-party Computation(MPC) phase 
 ```
 # git clone https://github.com/tronprotocol/sapling-mpc
 ```
-&emsp;&emsp;if git has not been installed on your computer, please refer to [git](https://git-scm.com/downloads) first.
+&emsp;&emsp;If git has not been installed on your computer, please refer to [git](https://git-scm.com/downloads) first.
 
 8. Put `params` file in the sapling-mpc directory, then run:
 ```
