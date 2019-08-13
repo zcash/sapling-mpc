@@ -4,7 +4,7 @@ This document is a guide to participating in Multi-party Computation(MPC) phase 
 
 ## What should I do?
 
-1. Send an email to jiangyuanshu@tron.network to apply to participate in MPC. Please introduce yourself in the email.
+1. Send an email to Brown.Jiang@tron.network to apply to participate in MPC. Please introduce yourself in the email.
 
 2. TRON will send you an email about the time for you to participate in MPC.
 
