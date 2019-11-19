@@ -1,4 +1,4 @@
-# sapling-mpc
+# TRON-mpc
 
 This document is a guide to participating in Multi-party Computation(MPC) phase 2 and verifying the result.
 
