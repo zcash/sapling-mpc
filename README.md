@@ -16,7 +16,7 @@ This document is a guide to participating in Multi-party Computation(MPC) phase 
   + Memory: 8 GB RAM
   + Storage: 500 GB internal storage drive
 
-5. Download and install IM tool [keybase](https://keybase.io/). If you don't have an account yet, create an account and add TRON' account as your friends. TRON's account is `tron_brown`.
+5. Download and install IM tool [keybase](https://keybase.io/). If you don't have an account yet, create an account and add TRON' account as your friends. TRON's account is `tronz_mpc`.
 
 6. Run the following code in your terminal to download Rustup and install Rust, then follow the instructions if you are running on macOS / Linux / another Unix-like OS:
 ```
