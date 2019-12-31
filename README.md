@@ -6,9 +6,9 @@ This document is a guide to participating in Multi-party Computation(MPC) phase 
 
 1. Send an email to tronz_mpc@tronz.io to apply to participate in MPC. Please introduce yourself in the email and tell us your available time.
 
-2. TRON will send you an email about the time for you to participate in MPC.
+2. TRONZ will send you an email about the time for you to participate in MPC.
 
-3. When it is your turn, TRON will send you a notification email and give you a params file link which you will need to download.
+3. When it is your turn, TRONZ will send you a notification email and give you a params file link which you will need to download.
 
 4. Download the `params` file on server. Minimum requirements of server requires:
    + Processor (CPU): Intel Core i5 (sixth generation or newer) or equivalent
@@ -16,7 +16,7 @@ This document is a guide to participating in Multi-party Computation(MPC) phase 
    + Memory: 8 GB RAM
    + Storage: 500 GB internal storage drive
 
-5. Download and install IM tool [keybase](https://keybase.io/). If you don't have an account yet, create an account and add TRON' account as your friends. TRON's account is `tronz_mpc`.
+5. Download and install IM tool [keybase](https://keybase.io/). If you don't have an account yet, create an account and add TRONZ' account as your friends. TRONZ's account is `tronz_mpc`.
 
 6. Run the following code in your terminal to download Rustup and install Rust, then follow the instructions if you are running on macOS / Linux / another Unix-like OS:
 ```
@@ -43,7 +43,7 @@ This document is a guide to participating in Multi-party Computation(MPC) phase 
 
 &emsp;&emsp;Notice: this process could take 0.5 ~ 1 hours according to your hardware capacity and occupy 1.5 ~ 2GB of memory.
 
-9. Send your result to TRON. Send the file `new_params` by keybase and `hash` by email. Feel free to state your os version in email. E.g. windows 7/centos 7.
+9. Send your result to TRONZ. Send the file `new_params` by keybase and `hash` by email. Feel free to state your os version in email. E.g. windows 7/centos 7.
 
 ## Dependency
 We reuse the phase 2 result of zcash https://download.z.cash/sapling-mpc/params as the first `params` of the process. At the end of process, we generate the random beacon by using one Bitcoin block's hash as the seed of pseudo random number generator; The block's height will not be determined until last participant completes his operation. After we verify all participants' contribution, we will publish all hash on project [wiki](https://github.com/tronprotocol/mpc/wiki) page. Anyone can do this verification as belows.
