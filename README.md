@@ -11,10 +11,10 @@ This document is a guide to participating in Multi-party Computation(MPC) phase 
 3. When it is your turn, TRON will send you a notification email and give you a params file link which you will need to download.
 
 4. Download the `params` file on server. Minimum requirements of server requires:
-  + Processor (CPU): Intel Core i5 (sixth generation or newer) or equivalent
-  + Operating System: Linux (Recommended) / macOS / Windows 7+         
-  + Memory: 8 GB RAM
-  + Storage: 500 GB internal storage drive
+   + Processor (CPU): Intel Core i5 (sixth generation or newer) or equivalent
+   + Operating System: Linux (Recommended) / macOS / Windows 7+         
+   + Memory: 8 GB RAM
+   + Storage: 500 GB internal storage drive
 
 5. Download and install IM tool [keybase](https://keybase.io/). If you don't have an account yet, create an account and add TRON' account as your friends. TRON's account is `tronz_mpc`.
 
