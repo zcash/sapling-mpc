@@ -45,11 +45,11 @@
 
 9. 请把你的结果告知TRONZ。通过Keybase来发送`new_params`文件，然后把hash值通过邮件告知我们，告知操作系统版本更好，例如Windows 7/Centos 7。
 
-## Dependency
-我们重用了zcash的多方计算第二阶段的最终结果 https://download.z.cash/sapling-mpc/params 作为我们的起始参数。在最后一个参与者结束迭代计算后，我们采用比特币最新区块的hash值作为伪随机函数的种子，来生成随机信标。每个参与者把结果发送给我们后，我们会做验证生成的参数是否有效。在mpc结束后，我们把所有参与者的贡献发布在本项目的[wiki](https://github.com/tronprotocol/mpc/wiki) 。所有人参与者可以验证自己的共享是否保存在最终参数中。
+## 依赖
+我们重用了zcash的多方计算第二阶段的最终结果 https://download.z.cash/sapling-mpc/params 作为我们的起始参数，添加额外一些参与者。每个参与者把结果发送给我们后，我们会做验证生成的参数是否有效。在最后一个参与者结束迭代计算后，我们采用比特币最新区块的hash值作为伪随机函数的种子来生成随机信标（Random Beacon）。在mpc结束后，我们把所有参与者的贡献发布在本项目的[wiki](https://github.com/tronprotocol/mpc/wiki) 。所有参与者可以验证自己的贡献是否保存在最终参数中。
 
 
-## 如何验证我的共享 ?
+## 如何验证我的贡献 ?
 
 在所有参与者完成迭代后，我们把最终的`params`发布于aws上，永久存储。可以通过以下方式验证：
 ```
@@ -59,7 +59,7 @@
 # tar xvf powersoftau_phase1_files.tar && cp powersoftau_phase1_files/* .
 # cargo run --release --features="verification" --bin verify
 ```
-验证过程大约耗时一小时，输出所有参与者的hash值。查询自己保存的hash值是否在输出的hahs列表中。
+验证过程大约耗时一小时，输出所有参与者的hash值。查询自己保存的hash值是否在输出的hash列表中。
 
 ## License
 
