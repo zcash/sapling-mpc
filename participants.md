@@ -7,11 +7,11 @@ Index | Name | Email | Completed date
 003 | Jason Neely | bondibox@gmail.com | 2020-01-07
 004 | Dirk Frank | dirk.frank@tron-europe.org | 2020-01-07
 005 | Dimitris Apostolou | dimitris.apostolou@icloud.com | 2020-01-08
+006 | Fbsobreira| cryptochainbrazil@gmail.com | 
 
 ## Ongoing participants
 
 Name | Email | 
 ------------ | ------------- | 
-Fernando| cryptochainbrazil@gmail.com | 
 Bruno Campos | baiano@tronwallet.me |
 Carsten Stöcker | carsten.stoecker@spherity.com | 
