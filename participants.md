@@ -10,9 +10,10 @@ Index | Name | Email | Completed date
 006 | Fbsobreira| cryptochainbrazil@gmail.com | 2020-01-09
 007 | Carsten Stöcker| carsten.stoecker@spherity.com | 2020-01-10
 008 | Bruno Campos | baiano@tronwallet.me | 2020-01-11
+009 | Justin Sun | sunyu******@gmail.com | 2020-01-12
 
 ## Ongoing participants
 
 Name | Email | 
 ------------ | ------------- | 
-Justin Sun |  |
+ | |
