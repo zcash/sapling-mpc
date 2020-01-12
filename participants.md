@@ -9,9 +9,10 @@ Index | Name | Email | Completed date
 005 | Dimitris Apostolou | dimitris.apostolou@icloud.com | 2020-01-08
 006 | Fbsobreira| cryptochainbrazil@gmail.com | 2020-01-09
 007 | Carsten Stöcker| carsten.stoecker@spherity.com | 2020-01-10
+008 | Bruno Campos | baiano@tronwallet.me | 2020-01-11
 
 ## Ongoing participants
 
 Name | Email | 
 ------------ | ------------- | 
-Bruno Campos | baiano@tronwallet.me |
+Justin Sun |  |
