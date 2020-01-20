@@ -8,9 +8,7 @@
 
 2. TRONZ会回复邮件告知你参与mpc的时间点。
 
-3. 当轮到你参与的时候，TRONZ给你发送一封通知邮件，包括你的序号和`params`文件的链接。
-
-4. 在服务器下载`params`文件，服务器的最小硬件要求如下：
+3. 当轮到你参与的时候，TRONZ给你发送一封通知邮件，包括你的序号和`params`文件的链接。推荐的服务器的最小硬件要求如下：
    + Processor (CPU): Intel Core i5 (第六代或以上) or equivalent
    + Operating System: Linux (推荐) / macOS / Windows 7+         
    + Memory: 8 GB RAM
@@ -22,19 +20,22 @@
 ```
 # curl https://sh.rustup.rs -sSf | sh
 ```
-&emsp;&emsp; 在Linux上，可能需要根据提示执行以下命令来配置环境：
+&emsp;&emsp; 在Linux/macOS 上，可能需要根据提示执行以下命令来配置环境：
 ```
 # source $HOME/.cargo/env
 ```
 &emsp;&emsp;如果你使用Windows系统，参考[rust](https://www.rust-lang.org/learn/get-started) 官方主页来安装。 
-
+在macOS上执行:
+```
+# xcode-select --install
+```
 7. 下载mpc项目的源码：
 ```
 # git clone https://github.com/tronprotocol/mpc
 ```
 &emsp;&emsp;如果你还没有安装git环境，先安装 [git](https://git-scm.com/downloads).
 
-8. 把`params`文件放入mpc目录，然后运行:
+8. 在mpc目录下下载邮件链接中的`params`文件，然后运行:
 ```
 # cargo run --release --bin compute
 ```

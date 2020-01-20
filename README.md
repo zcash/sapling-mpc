@@ -23,11 +23,14 @@ This document is a guide to participating in Multi-party Computation(MPC) phase 
 # curl https://sh.rustup.rs -sSf | sh
 ```
 
-&emsp;&emsp;If you are running on windows, please go to [rust](https://www.rust-lang.org/learn/get-started) homepage for installation instruction. In linux, you may need to run as prompted after installation:
+&emsp;&emsp;If you are running on windows, please go to [rust](https://www.rust-lang.org/learn/get-started) homepage for installation instruction. In linux/Mac, you may need to run as prompted after installation:
 ```
 # source $HOME/.cargo/env
 ```
-
+You may also to run on Mac os:
+```
+# xcode-select --install
+```
 7. Obtain the source code of project mpc:
 ```
 # git clone https://github.com/tronprotocol/mpc
@@ -38,7 +41,7 @@ This document is a guide to participating in Multi-party Computation(MPC) phase 
 ```
 # cargo run --release --bin compute
 ```
-&emsp;&emsp;When it’s finished, you will get a `new_params` file and a `hash` which you will need to memorize. You can find the `hash` and `new_params` as shown below:
+&emsp;&emsp;When it’s finished, you will get a `new_params` file and a `hash` which you must need to memorize. You can find the `hash` and `new_params` as shown below:
 ![](https://raw.githubusercontent.com/tronprotocol/documentation-en/master/docs_without_index/internal-test/sapling-output.jpg)
 
 &emsp;&emsp;Notice: this process could take 0.5 ~ 1 hours according to your hardware capacity and occupy 1.5 ~ 2GB of memory.
