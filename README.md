@@ -17,8 +17,8 @@ This document is a guide to participating in Multi-party Computation(MPC) phase 
       + Operating System: Linux (Recommended) / macOS / Windows 7+         
       + Memory: 8 GB RAM
       + Storage: 500 GB internal storage drive
-  
-  Run the following code in your terminal to download Rustup and install Rust, then follow the instructions if you are running on macOS / Linux / another Unix-like OS:
+      
+&emsp;&emsp;Run the following code in your terminal to download Rustup and install Rust, then follow the instructions if you are running on macOS / Linux / another Unix-like OS:
 ```
 # curl https://sh.rustup.rs -sSf | sh
 ```
@@ -27,7 +27,7 @@ This document is a guide to participating in Multi-party Computation(MPC) phase 
 ```
 # source $HOME/.cargo/env
 ```
-You may also to run on Mac os:
+&emsp;&emsp;You may also need to run on Mac os:
 ```
 # xcode-select --install
 ```
@@ -37,7 +37,7 @@ You may also to run on Mac os:
 ```
 &emsp;&emsp;If git has not been installed on your computer, please refer to [git](https://git-scm.com/downloads) first.
 
-7. Put `params` file in the mpc directory, then run:
+7. In the mpc directory, download `params` file, then run:
 ```
 # cargo run --release --bin compute
 ```
