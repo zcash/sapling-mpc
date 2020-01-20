@@ -15,10 +15,6 @@ Index | Name | Email | Completed date
 
 ## Ongoing participants
 
-Name | Email | 
------------- | ------------- | 
-- |2030166468@qq.com |
+Name | Email |
+------------ | ------------- |
 Петр Порошенко   | relomonos12@gmail.com |
-Diego Gutierrez-Zaldivar | - |
-JSheman | - |
-thegod888 | - |
