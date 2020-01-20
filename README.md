@@ -18,12 +18,14 @@ This document is a guide to participating in Multi-party Computation(MPC) phase 
       + Memory: 8 GB RAM
       + Storage: 500 GB internal storage drive
       
-&emsp;&emsp;Run the following code in your terminal to download Rustup and install Rust, then follow the instructions if you are running on macOS / Linux / another Unix-like OS:
+&emsp;&emsp;On Windows, please go to [rust](https://www.rust-lang.org/learn/get-started) homepage for installation instruction, then jump to next step.
+
+&emsp;&emsp;On Linux/Mac, Run the following code in your terminal to download Rustup and install Rust, then follow the instructions if you are running on macOS / Linux / another Unix-like OS:
 ```
 # curl https://sh.rustup.rs -sSf | sh
 ```
 
-&emsp;&emsp;If you are running on windows, please go to [rust](https://www.rust-lang.org/learn/get-started) homepage for installation instruction. In linux/Mac, you may need to run as prompted after installation:
+&emsp;&emsp; run as prompted after installation:
 ```
 # source $HOME/.cargo/env
 ```
@@ -41,7 +43,7 @@ This document is a guide to participating in Multi-party Computation(MPC) phase 
 ```
 # cargo run --release --bin compute
 ```
-&emsp;&emsp;When it’s finished, you will get a `new_params` file and a `hash` which you must need to memorize. You can find the `hash` and `new_params` as shown below:
+&emsp;&emsp;When it’s finished, you will get a `new_params` file and a `hash` which you must need to record. You can find the `hash` and `new_params` as shown below:
 ![](https://raw.githubusercontent.com/tronprotocol/documentation-en/master/docs_without_index/internal-test/sapling-output.jpg)
 
 &emsp;&emsp;Notice: this process could take 0.5 ~ 1 hours according to your hardware capacity and occupy 1.5 ~ 2GB of memory.
