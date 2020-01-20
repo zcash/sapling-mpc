@@ -14,9 +14,9 @@
    + Memory: 8 GB RAM
    + Storage: 500 GB internal storage drive
 
-5. 下载并安装IM工具 [keybase](https://keybase.io/)，如果你没有账户新建一个。有任何问题，请添加`tronz_mpc`为好友来解决。
+4. 下载并安装IM工具 [keybase](https://keybase.io/)，如果你没有账户新建一个。有任何问题，请添加`tronz_mpc`为好友来解决。
 
-6. 如果操作系统是macOS / Linux / Unix-like OS，在终端上运行以下命令下载和安装rust运行环境：
+5. 如果操作系统是macOS / Linux / Unix-like OS，在终端上运行以下命令下载和安装rust运行环境：
 ```
 # curl https://sh.rustup.rs -sSf | sh
 ```
@@ -29,13 +29,13 @@
 ```
 # xcode-select --install
 ```
-7. 下载mpc项目的源码：
+6. 下载mpc项目的源码：
 ```
 # git clone https://github.com/tronprotocol/mpc
 ```
 &emsp;&emsp;如果你还没有安装git环境，先安装 [git](https://git-scm.com/downloads).
 
-8. 在mpc目录下下载邮件链接中的`params`文件，然后运行:
+7. 在mpc目录下下载邮件链接中的`params`文件，然后运行:
 ```
 # cargo run --release --bin compute
 ```
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;这个计算过程大约耗时半小时~1小时，根据硬件环境可能稍有不同，占用2GB物理内存。
 
-9. 请把你的结果告知TRONZ。通过Keybase来发送`new_params`文件，然后把hash值通过邮件告知我们，告知操作系统版本更好，例如Windows 7/Centos 7。
+8. 请把你的结果告知TRONZ。通过Keybase来发送`new_params`文件，然后把hash值通过邮件告知我们，告知操作系统版本更好，例如Windows 7/Centos 7。
 
 ## 依赖
 我们重用了zcash的多方计算第二阶段的最终结果 https://download.z.cash/sapling-mpc/params 作为我们的起始参数，添加额外一些参与者。每个参与者把结果发送给我们后，我们会做验证生成的参数是否有效。在最后一个参与者结束迭代计算后，我们采用比特币最新区块的hash值作为伪随机函数的种子来生成随机信标（Random Beacon）。在mpc结束后，我们把所有参与者的贡献发布在本项目的[wiki](https://github.com/tronprotocol/mpc/wiki) 。所有参与者可以验证自己的贡献是否保存在最终参数中。
