@@ -20,33 +20,33 @@ This document is a guide to participating in Multi-party Computation(MPC) phase 
       
 &emsp;&emsp;On Windows, please go to [rust](https://www.rust-lang.org/learn/get-started) homepage for installation instruction, then jump to next step.
 
-&emsp;&emsp;On Linux/Mac, Run the following code in your terminal to download Rustup and install Rust, then follow the instructions if you are running on macOS / Linux / another Unix-like OS:
-```
-# curl https://sh.rustup.rs -sSf | sh
-```
-
-&emsp;&emsp; run as prompted after installation:
-```
-# source $HOME/.cargo/env
-```
-&emsp;&emsp;You may also need to run on Mac os:
+&emsp;&emsp;On Mac, install xcode command line tools first:
 ```
 # xcode-select --install
 ```
+
 6. Obtain the source code of project mpc:
 ```
 # git clone https://github.com/tronprotocol/mpc
 ```
 &emsp;&emsp;If git has not been installed on your computer, please refer to [git](https://git-scm.com/downloads) first.
 
-7. In the mpc directory, download `params` file, then run:
+7. On Mac/Linux, in the mpc directory, run following command in your terminal and choose 1 in the following selection:
+```
+# sh compute.sh <your_params_link>
+```
+
+&emsp;&emsp;On Windows, in the mpc directory, download `params` file, then run:
 ```
 # cargo run --release --bin compute
 ```
+
 &emsp;&emsp;When it’s finished, you will get a `new_params` file and a `hash` which you must need to record. You can find the `hash` and `new_params` as shown below:
-![](https://raw.githubusercontent.com/tronprotocol/documentation-en/master/docs_without_index/internal-test/sapling-output.jpg)
+![](https://raw.githubusercontent.com/tronprotocol/documentation-en/master/docs_without_index/internal-test/mpc-output.jpg)
+
 
 &emsp;&emsp;Notice: this process could take 0.5 ~ 1 hours according to your hardware capacity and occupy 1.5 ~ 2GB of memory.
+
 
 8. Send your result to TRONZ. Send the file `new_params` by keybase, send `hash` string by email. Feel free to state your os version in email. E.g. windows 7/centos 7.
 
