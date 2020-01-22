@@ -12,6 +12,7 @@ Index | Name | Email | Completed date
 008 | Bruno Campos | baiano@tronwallet.me | 2020-01-11
 009 | Justin Sun | sunyu******@gmail.com | 2020-01-12
 010 | Matt   | mbranton@gmail.com | 2020-01-20
+011 | sun   | shydesky@gmail.com | 2020-01-22
 
 ## Ongoing participants
 
