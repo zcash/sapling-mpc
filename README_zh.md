@@ -32,7 +32,7 @@
 ```
 # sh compute.sh <your_params_link>
 ```
-如果你的系统是Windows, 下载`params`文件放在MPC目录下，然后在该目录下执行以下命令：
+如果你的系统是Windows, 下载`params`文件放在mpc目录下，然后在该目录下执行以下命令：
 ```
 # cargo run --release --bin compute
 ```
