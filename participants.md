@@ -13,6 +13,7 @@ Index | Name | Email | Completed date
 009 | Justin Sun | sunyu******@gmail.com | 2020-01-12
 010 | Matt   | mbranton@gmail.com | 2020-01-20
 011 | sun   | shydesky@gmail.com | 2020-01-22
+012 | Aaron Musk| aaronmusk1989@gmail.com | 2020-01-23
 
 ## Ongoing participants
 
