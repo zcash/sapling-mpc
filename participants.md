@@ -14,6 +14,7 @@ Index | Name | Email | Completed date
 010 | Matt   | mbranton@gmail.com | 2020-01-20
 011 | sun   | shydesky@gmail.com | 2020-01-22
 012 | Aaron Musk| aaronmusk1989@gmail.com | 2020-01-23
+013 | Edward | blake2s@protonmail.com | 2020-01-23
 
 ## Ongoing participants
 
