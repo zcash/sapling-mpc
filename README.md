@@ -4,8 +4,17 @@ This document is a guide to participating in Multi-party Computation(MPC) phase 
 
 ## What should I do ? 
 
-1. Send an email to tronz_mpc@tronz.io to apply to participate in MPC. Please introduce yourself in the email and tell us your available time.
-
+1. Send an email to tronz_mpc@tronz.io to apply to participate in MPC. Please introduce yourself in the email and tell us your available time. For example:
+    ```    
+    Hi, Tronz,
+     
+      I'm Brown, apply to participate in MPC project, my available time is 2020-01-20 ~ 2020-01-22, 
+      8:00~10:00 am, UTC+8. As a student of Peking University, I live in Beijing China now, focus on
+      Blockchain technology.
+     
+    Your sincerely，
+    Brown
+    ```    
 2. TRONZ will send you an email about the time for you to participate in MPC.
 
 3. When it is your turn, TRONZ will send you a notification email and give you a params file link which you will need to download. 
