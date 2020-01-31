@@ -8,12 +8,12 @@ This document is a guide to participating in Multi-party Computation(MPC) phase 
     ```    
     Hi, Tronz,
      
-      I'm Brown, apply to participate in MPC project, my available time is 2020-01-20 ~ 2020-01-22, 
+      I'm Brown Jiang, apply to participate in MPC project, my available time is 2020-01-20 ~ 2020-01-22, 
       8:00~10:00 am, UTC+8. As a student of Peking University, I live in Beijing China now, focus on
       Blockchain technology.
      
     Your sincerely，
-    Brown
+    Brown Jiang
     ```    
 2. TRONZ will send you an email about the time for you to participate in MPC.
 
