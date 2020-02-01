@@ -17,6 +17,7 @@ Index | Name | Email | Completed date
 013 | Edward | blake2s@protonmail.com | 2020-01-23
 014 | Miffy Tang | timothychungkitwai@gmail.com | 2020-01-31
 015 | Alberto Zhang | alberto.zhangbo@gmail.com | 2020-02-01
+016 | Abner Frank   | abner725@aol.com          | 2020-02-01
 ## Ongoing participants
 
 Name | Email |
@@ -37,7 +38,6 @@ Rain ren      | dzhcrypto@gmail.com           |
 Ray Wu        | wgq.quan@gmail.com            |
 Ben Peng      | ben.peng18@gmail.com          |
 Adi Lee       | nwolvip@outlook.com           |
-Abner Frank   | abner725@aol.com              |
 Taihao Fu     | taihao.fu@gmail.com           |
 Matthew To    | mattopolitan@gmail.com        |
 Jeancky Jiang | jeancky.jiang@outlook.com     |
