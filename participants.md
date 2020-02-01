@@ -26,4 +26,32 @@ Jack Renfroe   | jackrenfroe@protonmail.com |
 Howard Boelky | howardboelky78@gmail.com |
 Rabi | greatcanaka123@protonmail.com |
 Martin | martin012020@aol.com |
-Maik schierholz | schierholz@eulibi.de | 
+Maik schierholz | schierholz@eulibi.de |
+-- | -- |
+Miffy Tang    | timothychungkitwai@gmail.com  |
+Xing          | xingyuan15@gmail.com          |
+Alberto Zhang | alberto.zhangbo@gmail.com     |
+Elvis Zhang   | zhangheng1536@gmail.com       |
+Stan Lee      | stanlee8080@outlook.com       |
+Joe Kim       | ksl2945@icloud.com            |
+Holt Hou      | holy.holt@aol.com             |
+Rain ren      | dzhcrypto@gmail.com           |
+Ray Wu        | wgq.quan@gmail.com            |
+Ben Peng      | ben.peng18@gmail.com          |
+Adi Lee       | nwolvip@outlook.com           |
+Abner Frank   | abner725@aol.com              |
+Taihao Fu     | taihao.fu@gmail.com           |
+Matthew To    | mattopolitan@gmail.com        |
+Jeancky Jiang | jeancky.jiang@outlook.com     |
+Wayne Zhang   | shiziwen@gmail.com            |
+Mangumpit Leo | mangumpitnorca@outlook.com    |
+Victoria Green| mongogo2010@outlook.com       |
+Sakary        | starsakary@gmail.com          |
+Allen Cheng   | ctx157194515@126.com          |
+Arthemos      | arthemos@163.com              |
+Imart Kang    | imart.kang@gmail.com          |
+LEUNG Cheung  | fledna@ymail.com              |
+Dorian Wu     | yit323487@163.com             |
+Cathy Li      | Shipu.Li@outlook.com          |
+Olivier Zhang | olenheim@hotmail.com          |
+Brown Jiang   | jiangyuanshu2003@gmail.com    |
