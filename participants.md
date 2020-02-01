@@ -16,7 +16,7 @@ Index | Name | Email | Completed date
 012 | Aaron Musk| aaronmusk1989@gmail.com | 2020-01-23
 013 | Edward | blake2s@protonmail.com | 2020-01-23
 014 | Miffy Tang | timothychungkitwai@gmail.com | 2020-01-31
-
+015 | Alberto Zhang | alberto.zhangbo@gmail.com | 2020-02-01
 ## Ongoing participants
 
 Name | Email |
@@ -28,9 +28,7 @@ Rabi | greatcanaka123@protonmail.com |
 Martin | martin012020@aol.com |
 Maik schierholz | schierholz@eulibi.de |
 -- | -- |
-Miffy Tang    | timothychungkitwai@gmail.com  |
 Xing          | xingyuan15@gmail.com          |
-Alberto Zhang | alberto.zhangbo@gmail.com     |
 Elvis Zhang   | zhangheng1536@gmail.com       |
 Stan Lee      | stanlee8080@outlook.com       |
 Joe Kim       | ksl2945@icloud.com            |
