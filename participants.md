@@ -15,6 +15,7 @@ Index | Name | Email | Completed date
 011 | sun   | shydesky@gmail.com | 2020-01-22
 012 | Aaron Musk| aaronmusk1989@gmail.com | 2020-01-23
 013 | Edward | blake2s@protonmail.com | 2020-01-23
+014 | Miffy Tang | timothychungkitwai@gmail.com | 2020-01-31
 
 ## Ongoing participants
 
