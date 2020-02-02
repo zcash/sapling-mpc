@@ -18,6 +18,8 @@ Index | Name | Email | Completed date
 014 | Miffy Tang | timothychungkitwai@gmail.com | 2020-01-31
 015 | Alberto Zhang | alberto.zhangbo@gmail.com | 2020-02-01
 016 | Abner Frank   | abner725@aol.com          | 2020-02-01
+017 | Martin   | martin012020@aol.com          | 2020-02-02
+
 ## Ongoing participants
 
 Name | Email |
@@ -26,7 +28,6 @@ Name | Email |
 Jack Renfroe   | jackrenfroe@protonmail.com |
 Howard Boelky | howardboelky78@gmail.com |
 Rabi | greatcanaka123@protonmail.com |
-Martin | martin012020@aol.com |
 Maik schierholz | schierholz@eulibi.de |
 -- | -- |
 Xing          | xingyuan15@gmail.com          |
