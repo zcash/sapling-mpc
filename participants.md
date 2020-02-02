@@ -20,6 +20,7 @@ Index | Name | Email | Completed date
 016 | Abner Frank   | abner725@aol.com          | 2020-02-01
 017 | Martin   | martin012020@aol.com          | 2020-02-02
 018 | Holt Hou | holy.holt@aol.com      | 2020-02-02
+019 | Hong Guo | tsabo_gh@163.com      | 2020-02-02
 
 ## Ongoing participants
 
