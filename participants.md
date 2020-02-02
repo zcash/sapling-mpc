@@ -19,6 +19,7 @@ Index | Name | Email | Completed date
 015 | Alberto Zhang | alberto.zhangbo@gmail.com | 2020-02-01
 016 | Abner Frank   | abner725@aol.com          | 2020-02-01
 017 | Martin   | martin012020@aol.com          | 2020-02-02
+018 | Holt Hou | holy.holt@aol.com      | 2020-02-02
 
 ## Ongoing participants
 
@@ -34,7 +35,6 @@ Xing          | xingyuan15@gmail.com          |
 Elvis Zhang   | zhangheng1536@gmail.com       |
 Stan Lee      | stanlee8080@outlook.com       |
 Joe Kim       | ksl2945@icloud.com            |
-Holt Hou      | holy.holt@aol.com             |
 Rain ren      | dzhcrypto@gmail.com           |
 Ray Wu        | wgq.quan@gmail.com            |
 Ben Peng      | ben.peng18@gmail.com          |
