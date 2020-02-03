@@ -22,6 +22,9 @@ Index | Name | Email | Completed date
 018 | Holt Hou | holy.holt@aol.com      | 2020-02-02
 019 | Hong Guo | tsabo_gh@163.com      | 2020-02-02
 020 | Cathy Tan | lotusLeaffy@protonmail.com      | 2020-02-02
+021 | Ben Peng | ben.peng18@gmail.com     | 2020-02-03
+022 | Elvis Zhang | zhangheng1536@gmail.com     | 2020-02-03
+023 | Miraculous Wong | wm18840987261@163.com      | 2020-02-03
 
 ## Ongoing participants
 
@@ -32,6 +35,11 @@ Jack Renfroe   | jackrenfroe@protonmail.com |
 Howard Boelky | howardboelky78@gmail.com |
 Rabi | greatcanaka123@protonmail.com |
 Maik schierholz | schierholz@eulibi.de |
+Mustafa khater | khaterm14@gmail.com |
+Alper KILIÇER |alpertunga333@gmail.com |
+Pedro Peñaloza | manfrediscompany@gmail.com |
+Aditya Vijendea |adityavijendra@gmail.com |
+Daniel Boyden | danboyden@me.com|
 -- | -- |
 Xing          | xingyuan15@gmail.com          |
 Elvis Zhang   | zhangheng1536@gmail.com       |
