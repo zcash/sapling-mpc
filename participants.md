@@ -57,6 +57,7 @@ Roman     |  zes333@my.com  |
 Kira      |  x5kira333@yandex.ru |
 Oleksandr Zolotarov | xgakamusic@gmail.com |
 卢纪玮   |  lujiwei@msn.com |
+заявка  |  vov-ka@tut.by |
 -- | -- |
 Xing          | xingyuan15@gmail.com          |
 Rain ren      | dzhcrypto@gmail.com           |
