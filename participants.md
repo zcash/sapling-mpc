@@ -25,7 +25,7 @@ Index | Name | Email | Completed date
 021 | Ben Peng | ben.peng18@gmail.com     | 2020-02-03
 022 | Elvis Zhang | zhangheng1536@gmail.com     | 2020-02-03
 023 | Miraculous Wong | wm18840987261@163.com      | 2020-02-03
-
+024 |   Stan Lee      | stanlee8080@outlook.com    | 2020-02-04
 ## Ongoing participants
 
 Name | Email |
@@ -40,10 +40,22 @@ Alper KILIÇER |alpertunga333@gmail.com |
 Pedro Peñaloza | manfrediscompany@gmail.com |
 Aditya Vijendea |adityavijendra@gmail.com |
 Daniel Boyden | danboyden@me.com|
+Marie Mullarkey | mygreatbeginnings@hotmail.com|
+Carson Koch |  ckoch5661@gmail.com |
+Precious onyekwere | onyekwereprecious47@gmail.com |
+Adrian Acuna | adacuna98@icloud.com |
+Jack Pot | crimeapot@gmail.com |
+Jaco Steyn | jaco@sctgroup.co.za |
+TronLive | admin@tron.live |
+Dzyk | dzykdzyk@yandex.ru |
+Radmir Safiullin | safiullinrazrab@yahoo.com |
+Haste Drei | hastedrei@gmail.com |
+Mikl May  |  9kaktak@gmail.com |
+
+
 -- | -- |
 Xing          | xingyuan15@gmail.com          |
 Elvis Zhang   | zhangheng1536@gmail.com       |
-Stan Lee      | stanlee8080@outlook.com       |
 Joe Kim       | ksl2945@icloud.com            |
 Rain ren      | dzhcrypto@gmail.com           |
 Ray Wu        | wgq.quan@gmail.com            |
