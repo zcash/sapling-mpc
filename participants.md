@@ -28,6 +28,7 @@ Index | Name | Email | Completed date
 024 |   Stan Lee      | stanlee8080@outlook.com    | 2020-02-04
 025 |   Ray Wu        | wgq.quan@gmail.com         | 2020-02-04
 026 |   Joe Kim       | ksl2945@icloud.com         | 2020-02-04
+027 |    Rani | greatcanaka123@protonmail.com | 2020-02-04
 ## Ongoing participants
 
 Name | Email |
@@ -35,7 +36,6 @@ Name | Email |
 Петр Порошенко   | relomonos12@gmail.com |
 Jack Renfroe   | jackrenfroe@protonmail.com |
 Howard Boelky | howardboelky78@gmail.com |
-Rabi | greatcanaka123@protonmail.com |
 Maik schierholz | schierholz@eulibi.de |
 Mustafa khater | khaterm14@gmail.com |
 Alper KILIÇER |alpertunga333@gmail.com |
@@ -57,7 +57,6 @@ Roman     |  zes333@my.com  |
 Kira      |  x5kira333@yandex.ru |
 Oleksandr Zolotarov | xgakamusic@gmail.com |
 卢纪玮   |  lujiwei@msn.com |
-
 -- | -- |
 Xing          | xingyuan15@gmail.com          |
 Rain ren      | dzhcrypto@gmail.com           |
