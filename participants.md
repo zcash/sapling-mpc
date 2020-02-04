@@ -26,6 +26,7 @@ Index | Name | Email | Completed date
 022 | Elvis Zhang | zhangheng1536@gmail.com     | 2020-02-03
 023 | Miraculous Wong | wm18840987261@163.com      | 2020-02-03
 024 |   Stan Lee      | stanlee8080@outlook.com    | 2020-02-04
+025 |   Ray Wu        | wgq.quan@gmail.com         | 2020-02-04
 ## Ongoing participants
 
 Name | Email |
@@ -51,15 +52,10 @@ Dzyk | dzykdzyk@yandex.ru |
 Radmir Safiullin | safiullinrazrab@yahoo.com |
 Haste Drei | hastedrei@gmail.com |
 Mikl May  |  9kaktak@gmail.com |
-
-
 -- | -- |
 Xing          | xingyuan15@gmail.com          |
-Elvis Zhang   | zhangheng1536@gmail.com       |
 Joe Kim       | ksl2945@icloud.com            |
 Rain ren      | dzhcrypto@gmail.com           |
-Ray Wu        | wgq.quan@gmail.com            |
-Ben Peng      | ben.peng18@gmail.com          |
 Adi Lee       | nwolvip@outlook.com           |
 Taihao Fu     | taihao.fu@gmail.com           |
 Matthew To    | mattopolitan@gmail.com        |
