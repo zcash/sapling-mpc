@@ -27,6 +27,7 @@ Index | Name | Email | Completed date
 023 | Miraculous Wong | wm18840987261@163.com      | 2020-02-03
 024 |   Stan Lee      | stanlee8080@outlook.com    | 2020-02-04
 025 |   Ray Wu        | wgq.quan@gmail.com         | 2020-02-04
+026 |   Joe Kim       | ksl2945@icloud.com         | 2020-02-04
 ## Ongoing participants
 
 Name | Email |
@@ -51,10 +52,14 @@ TronLive | admin@tron.live |
 Dzyk | dzykdzyk@yandex.ru |
 Radmir Safiullin | safiullinrazrab@yahoo.com |
 Haste Drei | hastedrei@gmail.com |
-Mikl May  |  9kaktak@gmail.com |
+Mikl May  |  9kaktak@gmail.com | 
+Roman     |  zes333@my.com  |
+Kira      |  x5kira333@yandex.ru |
+Oleksandr Zolotarov | xgakamusic@gmail.com |
+卢纪玮   |  lujiwei@msn.com |
+
 -- | -- |
 Xing          | xingyuan15@gmail.com          |
-Joe Kim       | ksl2945@icloud.com            |
 Rain ren      | dzhcrypto@gmail.com           |
 Adi Lee       | nwolvip@outlook.com           |
 Taihao Fu     | taihao.fu@gmail.com           |
