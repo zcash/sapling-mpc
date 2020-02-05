@@ -29,6 +29,8 @@ Index | Name | Email | Completed date
 025 |   Ray Wu        | wgq.quan@gmail.com         | 2020-02-04
 026 |   Joe Kim       | ksl2945@icloud.com         | 2020-02-04
 027 |    Rani | greatcanaka123@protonmail.com | 2020-02-04
+028 |    Xing | xingyuan15@gmail.com | 2020-02-05
+
 ## Ongoing participants
 
 Name | Email |
@@ -61,7 +63,6 @@ Oleksandr Zolotarov | xgakamusic@gmail.com |
 Danila Petrov |  meikernur@icloud.com |
 Vlad Shulyk   |  vl.shulyk@gmail.com  |
 -- | -- |
-Xing          | xingyuan15@gmail.com          |
 Rain ren      | dzhcrypto@gmail.com           |
 Adi Lee       | nwolvip@outlook.com           |
 Taihao Fu     | taihao.fu@gmail.com           |
