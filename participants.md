@@ -30,6 +30,7 @@ Index | Name | Email | Completed date
 026 |   Joe Kim       | ksl2945@icloud.com         | 2020-02-04
 027 |    Rani | greatcanaka123@protonmail.com | 2020-02-04
 028 |    Xing | xingyuan15@gmail.com | 2020-02-05
+029 | Matthew To | mattopolitan@gmail.com | 2020-02-05
 
 ## Ongoing participants
 
@@ -66,7 +67,6 @@ Vlad Shulyk   |  vl.shulyk@gmail.com  |
 Rain ren      | dzhcrypto@gmail.com           |
 Adi Lee       | nwolvip@outlook.com           |
 Taihao Fu     | taihao.fu@gmail.com           |
-Matthew To    | mattopolitan@gmail.com        |
 Jeancky Jiang | jeancky.jiang@outlook.com     |
 Wayne Zhang   | shiziwen@gmail.com            |
 Mangumpit Leo | mangumpitnorca@outlook.com    |
