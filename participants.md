@@ -32,6 +32,7 @@ Index | Name | Email | Completed date
 028 |    Xing | xingyuan15@gmail.com | 2020-02-05
 029 | Matthew To | mattopolitan@gmail.com | 2020-02-05
 030 | Taihao Fu | taihao.fu@gmail.com | 2020-02-05
+031 | Wayne Zhang | shiziwen@gmail.com | 2020-02-05
 
 ## Ongoing participants
 
@@ -64,11 +65,11 @@ Oleksandr Zolotarov | xgakamusic@gmail.com |
 заявка  |  vov-ka@tut.by |
 Danila Petrov |  meikernur@icloud.com |
 Vlad Shulyk   |  vl.shulyk@gmail.com  |
+Jack Lee      |  tsenchialee@hotmail.com |
 -- | -- |
 Rain ren      | dzhcrypto@gmail.com           |
 Adi Lee       | nwolvip@outlook.com           |
 Jeancky Jiang | jeancky.jiang@outlook.com     |
-Wayne Zhang   | shiziwen@gmail.com            |
 Mangumpit Leo | mangumpitnorca@outlook.com    |
 Victoria Green| mongogo2010@outlook.com       |
 Sakary        | starsakary@gmail.com          |
