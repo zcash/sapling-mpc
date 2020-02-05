@@ -58,6 +58,8 @@ Kira      |  x5kira333@yandex.ru |
 Oleksandr Zolotarov | xgakamusic@gmail.com |
 卢纪玮   |  lujiwei@msn.com |
 заявка  |  vov-ka@tut.by |
+Danila Petrov |  meikernur@icloud.com |
+Vlad Shulyk   |  vl.shulyk@gmail.com  |
 -- | -- |
 Xing          | xingyuan15@gmail.com          |
 Rain ren      | dzhcrypto@gmail.com           |
