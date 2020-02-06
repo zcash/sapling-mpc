@@ -23,7 +23,7 @@ This document is a guide to participate in Multi-party Computation(MPC) phase 2 
       + Processor (CPU): Intel Core i5 (sixth generation or newer) or equivalent
       + Operating System: Linux (Recommended) / macOS / Windows 7+         
       + Memory: 8 GB RAM
-      + Storage: 500 GB internal storage drive
+      + Storage: 4 GB free Disk storage
       
 &emsp;&emsp;On Windows, please go to [rust](https://www.rust-lang.org/learn/get-started) homepage for installation instruction, then jump to next step.
 
@@ -31,6 +31,11 @@ This document is a guide to participate in Multi-party Computation(MPC) phase 2 
 ```
 # xcode-select --install
 ```
+&emsp;&emsp;On Mac/Linux, Run the following code in your terminal to download Rustup and install Rust, then follow the instructions if you are running on macOS / Linux / another Unix-like OS:
+```
+# curl https://sh.rustup.rs -sSf | sh
+```
+and choose 1 when prompted.
 
 6. Obtain the source code of project mpc:
 ```
@@ -38,12 +43,7 @@ This document is a guide to participate in Multi-party Computation(MPC) phase 2 
 ```
 &emsp;&emsp;If git has not been installed on your computer, please download and install [git](https://git-scm.com/downloads) first.
 
-7. On Mac/Linux, in the `mpc` directory, run the following command in your terminal and choose 1 in the following selection:
-```
-# sh compute.sh <your_params_link>
-```
-
-&emsp;&emsp;On Windows, in the `mpc` directory, download `params` file, then run:
+7. In the `mpc` directory, download `params` file, then run:
 ```
 # cargo run --release --bin compute
 ```
@@ -51,11 +51,9 @@ This document is a guide to participate in Multi-party Computation(MPC) phase 2 
 &emsp;&emsp;When it’s finished, you will get a `new_params` file and a `hash` which you must need to record. You can find the `hash` and `new_params` as shown below:
 ![](https://raw.githubusercontent.com/tronprotocol/documentation-en/master/docs_without_index/internal-test/mpc-output.jpg)
 
-
 &emsp;&emsp;Notice: this process could take 0.5 ~ 1 hours depending on your hardware capacity and occupy 1.5 ~ 2GB of memory.
 
-
-8. Send your result to TRONZ, including the file `new_params` by keybase, and `hash` string by email. Feel free to state your os version in email. E.g. windows 7/centos 7.
+8. Send your result to TRONZ. Please send the file `new_params` by keybase; send `hash` string by email, feel free to state your os version in email, E.g. windows 7/centos 7.
 
 ## Dependency
 We reuse the phase 2 result of zcash https://download.z.cash/sapling-mpc/params as the first `params` of the process. In the end of the process, we generate a random beacon by using one Bitcoin block's hash as the seed of pseudo random number generator. The block's height will not be determined until the last participant completes his operation. After we've verified all participants' contributions, we will publish all the hashes on project [wiki](https://github.com/tronprotocol/mpc/wiki) page.
