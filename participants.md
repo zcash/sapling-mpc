@@ -66,6 +66,10 @@ Oleksandr Zolotarov | xgakamusic@gmail.com |
 Danila Petrov |  meikernur@icloud.com |
 Vlad Shulyk   |  vl.shulyk@gmail.com  |
 Jack Lee      |  tsenchialee@hotmail.com |
+Kashiwayanagi | y.kashiwayanagi@gmail.com |
+Zakorko Bohdan | bogdanzakorko1@gmail.com |
+Milana | milashchetkina@gmail.com |
+KrazyKewl Bruce | krazykewlgameztoken@gmail.com |
 -- | -- |
 Rain ren      | dzhcrypto@gmail.com           |
 Adi Lee       | nwolvip@outlook.com           |
