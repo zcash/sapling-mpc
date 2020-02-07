@@ -37,6 +37,7 @@ Index | Name | Email | Completed date
 033 | Oleksandr Zolotarov | xgakamusic@gmail.com | 2020-02-06
 034 | Sakary Jia | starsakary@gmail.com| 2020-02-06
 035 | Maik (TRON-Family) | schierholz@eulibi.de | 2020-02-06
+036 | Jeancky Jiang | jeancky.jiang@outlook.com | 2020-02-07
 
 ## Ongoing participants
 
@@ -76,7 +77,6 @@ KrazyKewl Bruce | krazykewlgameztoken@gmail.com |
 -- | -- |
 Rain ren      | dzhcrypto@gmail.com           |
 Adi Lee       | nwolvip@outlook.com           |
-Jeancky Jiang | jeancky.jiang@outlook.com     |
 Mangumpit Leo | mangumpitnorca@outlook.com    |
 Victoria Green| mongogo2010@outlook.com       |
 Allen Cheng   | ctx157194515@126.com          |
