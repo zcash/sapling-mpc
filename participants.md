@@ -33,6 +33,10 @@ Index | Name | Email | Completed date
 029 | Matthew To | mattopolitan@gmail.com | 2020-02-05
 030 | Taihao Fu | taihao.fu@gmail.com | 2020-02-05
 031 | Wayne Zhang | shiziwen@gmail.com | 2020-02-05
+032 | LEUNG Cheung | fledna@ymail.com | 2020-02-06
+033 | Oleksandr Zolotarov | xgakamusic@gmail.com | 2020-02-06
+034 | Sakary Jia | starsakary@gmail.com| 2020-02-06
+035 | Maik (TRON-Family) | schierholz@eulibi.de | 2020-02-06
 
 ## Ongoing participants
 
@@ -60,7 +64,6 @@ Haste Drei | hastedrei@gmail.com |
 Mikl May  |  9kaktak@gmail.com | 
 Roman     |  zes333@my.com  |
 Kira      |  x5kira333@yandex.ru |
-Oleksandr Zolotarov | xgakamusic@gmail.com |
 卢纪玮   |  lujiwei@msn.com |
 заявка  |  vov-ka@tut.by |
 Danila Petrov |  meikernur@icloud.com |
@@ -76,11 +79,9 @@ Adi Lee       | nwolvip@outlook.com           |
 Jeancky Jiang | jeancky.jiang@outlook.com     |
 Mangumpit Leo | mangumpitnorca@outlook.com    |
 Victoria Green| mongogo2010@outlook.com       |
-Sakary        | starsakary@gmail.com          |
 Allen Cheng   | ctx157194515@126.com          |
 Arthemos      | arthemos@163.com              |
 Imart Kang    | imart.kang@gmail.com          |
-LEUNG Cheung  | fledna@ymail.com              |
 Dorian Wu     | yit323487@163.com             |
 Cathy Li      | Shipu.Li@outlook.com          |
 Olivier Zhang | olenheim@hotmail.com          |
