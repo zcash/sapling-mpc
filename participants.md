@@ -42,6 +42,7 @@ Index | Name | Email | Completed date
 038 | Alex Huang    | oday0311@hotmail.com      | 2020-02-08
 039 | Olivier Zhang | olenheim@hotmail.com      | 2020-02-08
 040 | dzhcrypto      | dzhcrypto@gmail.com      | 2020-02-08
+041 |  Harry Xu      | myfocus3722@gmail.com    | 2020-02-08
 ## Ongoing participants
 
 Name | Email |
