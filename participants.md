@@ -39,6 +39,7 @@ Index | Name | Email | Completed date
 035 | Maik (TRON-Family) | schierholz@eulibi.de | 2020-02-06
 036 | Jeancky Jiang | jeancky.jiang@outlook.com | 2020-02-07
 037 | Adi Lee       | nwolvip@outlook.com       | 2020-02-07
+038 | Alex Huang    | oday0311@hotmail.com      | 2020-02-08
 ## Ongoing participants
 
 Name | Email |
@@ -75,7 +76,8 @@ Zakorko Bohdan | bogdanzakorko1@gmail.com |
 Milana | milashchetkina@gmail.com |
 KrazyKewl Bruce | krazykewlgameztoken@gmail.com |
 Teslenko Andrey | tinkoya3@gmail.com |
-Mr Robot | mmrrobot@yahoo.com |
+Aldo Urem      | aldo.urem@gmail.com |
+VLAD DUDOFF    | naravideos@gmail.com |
 -- | -- |
 Rain ren      | dzhcrypto@gmail.com           |
 Mangumpit Leo | mangumpitnorca@outlook.com    |
