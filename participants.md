@@ -41,6 +41,7 @@ Index | Name | Email | Completed date
 037 | Adi Lee       | nwolvip@outlook.com       | 2020-02-07
 038 | Alex Huang    | oday0311@hotmail.com      | 2020-02-08
 039 | Olivier Zhang | olenheim@hotmail.com      | 2020-02-08
+040 | dzhcrypto      | dzhcrypto@gmail.com      | 2020-02-08
 ## Ongoing participants
 
 Name | Email |
@@ -80,7 +81,6 @@ Teslenko Andrey | tinkoya3@gmail.com |
 Aldo Urem      | aldo.urem@gmail.com |
 VLAD DUDOFF    | naravideos@gmail.com |
 -- | -- |
-Rain ren      | dzhcrypto@gmail.com           |
 Mangumpit Leo | mangumpitnorca@outlook.com    |
 Victoria Green| mongogo2010@outlook.com       |
 Allen Cheng   | ctx157194515@126.com          |
