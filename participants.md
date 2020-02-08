@@ -40,6 +40,7 @@ Index | Name | Email | Completed date
 036 | Jeancky Jiang | jeancky.jiang@outlook.com | 2020-02-07
 037 | Adi Lee       | nwolvip@outlook.com       | 2020-02-07
 038 | Alex Huang    | oday0311@hotmail.com      | 2020-02-08
+039 | Olivier Zhang | olenheim@hotmail.com      | 2020-02-08
 ## Ongoing participants
 
 Name | Email |
@@ -87,5 +88,4 @@ Arthemos      | arthemos@163.com              |
 Imart Kang    | imart.kang@gmail.com          |
 Dorian Wu     | yit323487@163.com             |
 Cathy Li      | Shipu.Li@outlook.com          |
-Olivier Zhang | olenheim@hotmail.com          |
 Brown Jiang   | jiangyuanshu2003@gmail.com    |
