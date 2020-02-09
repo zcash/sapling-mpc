@@ -43,6 +43,12 @@ Index | Name | Email | Completed date
 039 | Olivier Zhang | olenheim@hotmail.com      | 2020-02-08
 040 | dzhcrypto      | dzhcrypto@gmail.com      | 2020-02-08
 041 |  Harry Xu      | myfocus3722@gmail.com    | 2020-02-08
+042 | Mangumpit Leo | mangumpitnorca@outlook.com | 2020-02-09
+043 | Leon Ji | leon.ji4965@gmail.com | 2020-02-09
+044 | Nile | freundjackie1982@gmail.com | 2020-02-09
+045 | Cris Wang | wangzihecisco@gmail.com | 2020-02-09
+
+
 ## Ongoing participants
 
 Name | Email |
@@ -82,7 +88,6 @@ Teslenko Andrey | tinkoya3@gmail.com |
 Aldo Urem      | aldo.urem@gmail.com |
 VLAD DUDOFF    | naravideos@gmail.com |
 -- | -- |
-Mangumpit Leo | mangumpitnorca@outlook.com    |
 Victoria Green| mongogo2010@outlook.com       |
 Allen Cheng   | ctx157194515@126.com          |
 Arthemos      | arthemos@163.com              |
