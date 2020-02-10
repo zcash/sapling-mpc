@@ -49,6 +49,7 @@ Index | Name | Email | Completed date
 045 | Cris Wang | wangzihecisco@gmail.com | 2020-02-09
 046 | Imart Kang  | imart.kang@gmail.com | 2020-02-10
 047 | Dorian Wu  | yit323487@163.com | 2020-02-10
+048 | Allen Cheng  | ctx157194515@126.com | 2020-02-10      |
 
 ## Ongoing participants
 
@@ -90,7 +91,6 @@ Aldo Urem      | aldo.urem@gmail.com |
 VLAD DUDOFF    | naravideos@gmail.com |
 -- | -- |
 Victoria Green| mongogo2010@outlook.com       |
-Allen Cheng   | ctx157194515@126.com          |
 Arthemos      | arthemos@163.com              |
 Cathy Li      | Shipu.Li@outlook.com          |
 Brown Jiang   | jiangyuanshu2003@gmail.com    |
