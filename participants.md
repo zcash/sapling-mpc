@@ -47,7 +47,7 @@ Index | Name | Email | Completed date
 043 | Leon Ji | leon.ji4965@gmail.com | 2020-02-09
 044 | Nile | freundjackie1982@gmail.com | 2020-02-09
 045 | Cris Wang | wangzihecisco@gmail.com | 2020-02-09
-
+046 | Imart Kang  | imart.kang@gmail.com | 2020-02-10
 
 ## Ongoing participants
 
@@ -91,7 +91,6 @@ VLAD DUDOFF    | naravideos@gmail.com |
 Victoria Green| mongogo2010@outlook.com       |
 Allen Cheng   | ctx157194515@126.com          |
 Arthemos      | arthemos@163.com              |
-Imart Kang    | imart.kang@gmail.com          |
 Dorian Wu     | yit323487@163.com             |
 Cathy Li      | Shipu.Li@outlook.com          |
 Brown Jiang   | jiangyuanshu2003@gmail.com    |
