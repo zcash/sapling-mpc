@@ -50,6 +50,7 @@ Index | Name | Email | Completed date
 046 | Imart Kang  | imart.kang@gmail.com | 2020-02-10
 047 | Dorian Wu  | yit323487@163.com | 2020-02-10
 048 | Allen Cheng  | ctx157194515@126.com | 2020-02-10      |
+049 | Dzyk  | yes@dzyk.ru | 2020-02-11      |
 
 ## Ongoing participants
 
@@ -71,7 +72,6 @@ Adrian Acuna | adacuna98@icloud.com |
 Jack Pot | crimeapot@gmail.com |
 Jaco Steyn | jaco@sctgroup.co.za |
 TronLive | admin@tron.live |
-Dzyk | dzykdzyk@yandex.ru |
 Radmir Safiullin | safiullinrazrab@yahoo.com |
 Haste Drei | hastedrei@gmail.com |
 Mikl May  |  9kaktak@gmail.com | 
