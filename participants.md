@@ -52,6 +52,7 @@ Index | Name | Email | Completed date
 048 | Allen Cheng  | ctx157194515@126.com | 2020-02-10      |
 049 | Dzyk  | yes@dzyk.ru | 2020-02-11      |
 050 | Allen Lee | al6303076@gmail.com | 2020-02-11
+051 | Rick Zhu  | zkkzkk@icloud.com   | 2020-02-11
 
 ## Ongoing participants
 
