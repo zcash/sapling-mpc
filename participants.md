@@ -60,6 +60,8 @@ Index | Name | Email | Completed date
 056 | Adam Silver | adam.silver1024@gmail.com | 2020-02-13
 057 | Bruce | 001mawork@gmail.com | 2020-02-13
 058 | Yuki Xue | xueyuanying123@gmail.com | 2020-02-13
+059 | Boyan Shen | shenboyan0325@gmail.com | 2020-02-13
+
 
 ## Ongoing participants
 
