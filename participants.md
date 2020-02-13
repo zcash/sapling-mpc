@@ -58,7 +58,8 @@ Index | Name | Email | Completed date
 054 | Matt Yue | yrp1990@gmail.com | 2020-02-12
 055 | Daryl Morey | just4onetime01@gmail.com | 2020-02-12
 056 | Adam Silver | adam.silver1024@gmail.com | 2020-02-13
-
+057 | Bruce | 001mawork@gmail.com | 2020-02-13
+058 | Yuki Xue | xueyuanying123@gmail.com | 2020-02-13
 
 ## Ongoing participants
 
