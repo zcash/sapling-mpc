@@ -57,6 +57,8 @@ Index | Name | Email | Completed date
 053 | Zhang Yu | 971071009@qq.com | 2020-02-12
 054 | Matt Yue | yrp1990@gmail.com | 2020-02-12
 055 | Daryl Morey | just4onetime01@gmail.com | 2020-02-12
+056 | Adam Silver | adam.silver1024@gmail.com | 2020-02-13
+
 
 ## Ongoing participants
 
