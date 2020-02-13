@@ -54,6 +54,9 @@ Index | Name | Email | Completed date
 050 | Allen Lee | al6303076@gmail.com | 2020-02-11
 051 | Rick Zhu  | zkkzkk@icloud.com   | 2020-02-11
 052 | Charis Wang  | hccyqw@163.com   | 2020-02-11
+053 | Zhang Yu | 971071009@qq.com | 2020-02-12
+054 | Matt Yue | yrp1990@gmail.com | 2020-02-12
+055 | Daryl Morey | just4onetime01@gmail.com | 2020-02-12
 
 ## Ongoing participants
 
