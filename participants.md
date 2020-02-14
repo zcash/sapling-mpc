@@ -61,7 +61,7 @@ Index | Name | Email | Completed date
 057 | Bruce | 001mawork@gmail.com | 2020-02-13
 058 | Yuki Xue | xueyuanying123@gmail.com | 2020-02-13
 059 | Boyan Shen | shenboyan0325@gmail.com | 2020-02-13
-
+060 | Slogan.Wang | wangxuguo@gmail.com    | 2020-02-14
 
 ## Ongoing participants
 
