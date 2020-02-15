@@ -64,6 +64,7 @@ Index | Name | Email | Completed date
 060 | Slogan.Wang | wangxuguo@gmail.com    | 2020-02-14
 061 | David Stern | loktarogar1@163.com    | 2020-02-14
 062 | James |  codewellliu@gmail.com   | 2020-02-14
+063 | Holly Jiang | jianghong5215@gmail.com | 2020-02-15
 
 ## Ongoing participants
 
