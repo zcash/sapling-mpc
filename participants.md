@@ -103,6 +103,10 @@ KrazyKewl Bruce | krazykewlgameztoken@gmail.com |
 Teslenko Andrey | tinkoya3@gmail.com |
 Aldo Urem      | aldo.urem@gmail.com |
 VLAD DUDOFF    | naravideos@gmail.com |
+Dmitry | d.shilin@sigma-it.ru |
+Andrew Shulgin | shultz.andrey@gmail.com |
+Valery Dzyk | dzykland@gmail.com |
+Denis Pitcher | mail@denispitcher.com |
 -- | -- |
 Victoria Green| mongogo2010@outlook.com       |
 Arthemos      | arthemos@163.com              |
