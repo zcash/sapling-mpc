@@ -68,6 +68,7 @@ Index | Name | Email | Completed date
 064 | Andrew Shulgin | shultz.andrey@gmail.com | 2020-02-17
 065 | Teslenko Andrey | tinkoya3@gmail.com | 2020-02-17
 066 | Kane Sun | kanesun0626@gmail.com | 2020-02-18
+067 | Maxim Sergeev | allugra@mail.ru | 2020-02-18
 
 ## Ongoing participants
 
@@ -108,7 +109,6 @@ VLAD DUDOFF    | naravideos@gmail.com |
 Dmitry | d.shilin@sigma-it.ru |
 Valery Dzyk | dzykland@gmail.com |
 Denis Pitcher | mail@denispitcher.com |
-Maxim Sergeev | allugra@mail.ru |
 Steven Cabrera Londoño | sevenupsoyo12@gmail.com |
 -- | -- |
 Victoria Green| mongogo2010@outlook.com       |
