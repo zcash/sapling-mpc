@@ -67,6 +67,7 @@ Index | Name | Email | Completed date
 063 | Holly Jiang | jianghong5215@gmail.com | 2020-02-15
 064 | Andrew Shulgin | shultz.andrey@gmail.com | 2020-02-17
 065 | Teslenko Andrey | tinkoya3@gmail.com | 2020-02-17
+066 | Kane Sun | kanesun0626@gmail.com | 2020-02-18
 
 ## Ongoing participants
 
