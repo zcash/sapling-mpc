@@ -107,6 +107,8 @@ Dmitry | d.shilin@sigma-it.ru |
 Andrew Shulgin | shultz.andrey@gmail.com |
 Valery Dzyk | dzykland@gmail.com |
 Denis Pitcher | mail@denispitcher.com |
+Maxim Sergeev | allugra@mail.ru |
+Steven Cabrera Londoño | sevenupsoyo12@gmail.com |
 -- | -- |
 Victoria Green| mongogo2010@outlook.com       |
 Arthemos      | arthemos@163.com              |
