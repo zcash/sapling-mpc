@@ -65,6 +65,8 @@ Index | Name | Email | Completed date
 061 | David Stern | loktarogar1@163.com    | 2020-02-14
 062 | James |  codewellliu@gmail.com   | 2020-02-14
 063 | Holly Jiang | jianghong5215@gmail.com | 2020-02-15
+064 | Andrew Shulgin | shultz.andrey@gmail.com | 2020-02-17
+065 | Teslenko Andrey | tinkoya3@gmail.com | 2020-02-17
 
 ## Ongoing participants
 
@@ -100,11 +102,9 @@ Kashiwayanagi | y.kashiwayanagi@gmail.com |
 Zakorko Bohdan | bogdanzakorko1@gmail.com |
 Milana | milashchetkina@gmail.com |
 KrazyKewl Bruce | krazykewlgameztoken@gmail.com |
-Teslenko Andrey | tinkoya3@gmail.com |
 Aldo Urem      | aldo.urem@gmail.com |
 VLAD DUDOFF    | naravideos@gmail.com |
 Dmitry | d.shilin@sigma-it.ru |
-Andrew Shulgin | shultz.andrey@gmail.com |
 Valery Dzyk | dzykland@gmail.com |
 Denis Pitcher | mail@denispitcher.com |
 Maxim Sergeev | allugra@mail.ru |

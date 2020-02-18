@@ -35,9 +35,12 @@ This document is a guide to participate in Multi-party Computation(MPC) phase 2 
 ```
 # curl https://sh.rustup.rs -sSf | sh
 ```
-and choose 1 when prompted.
+and choose 1 when prompted. After installation, run:
+```
+# source $HOME/.cargo/env
+```
 
-6. Obtain the source code of project mpc:
+6. Obtain the source code of project `mpc`:
 ```
 # git clone https://github.com/tronprotocol/mpc
 ```
