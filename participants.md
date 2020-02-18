@@ -69,6 +69,7 @@ Index | Name | Email | Completed date
 065 | Teslenko Andrey | tinkoya3@gmail.com | 2020-02-17
 066 | Kane Sun | kanesun0626@gmail.com | 2020-02-18
 067 | Maxim Sergeev | allugra@mail.ru | 2020-02-18
+068 | JK | houjingkuan1024@outlook.com | 2020-02-18
 
 ## Ongoing participants
 
