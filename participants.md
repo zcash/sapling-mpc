@@ -70,6 +70,8 @@ Index | Name | Email | Completed date
 066 | Kane Sun | kanesun0626@gmail.com | 2020-02-18
 067 | Maxim Sergeev | allugra@mail.ru | 2020-02-18
 068 | JK | houjingkuan1024@outlook.com | 2020-02-18
+069 | Victoria Green | mongogo2010@outlook.com | 2020-02-19
+070 | Valery Dzyk | dzykland@gmail.com | 2020-02-19
 
 ## Ongoing participants
 
@@ -108,7 +110,6 @@ KrazyKewl Bruce | krazykewlgameztoken@gmail.com |
 Aldo Urem      | aldo.urem@gmail.com |
 VLAD DUDOFF    | naravideos@gmail.com |
 Dmitry | d.shilin@sigma-it.ru |
-Valery Dzyk | dzykland@gmail.com |
 Denis Pitcher | mail@denispitcher.com |
 Steven Cabrera Londoño | sevenupsoyo12@gmail.com |
 -- | -- |
