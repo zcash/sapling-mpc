@@ -74,6 +74,8 @@ Index | Name | Email | Completed date
 070 | Valery Dzyk | dzykland@gmail.com | 2020-02-19
 071 | KrazyKewl Bruce | krazykewlgameztoken@gmail.com | 2020-02-20
 072 | Steven Cabrera Londoño | sevenupsoyo12@gmail.com | 2020-02-20
+073 | Captain Liu | workuseliubin@gmail.com | 2020-02-20
+074 | Kuntanury | kuntanury@gmail.com | 2020-02-20
 
 ## Ongoing participants
 
