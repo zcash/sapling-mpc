@@ -73,6 +73,7 @@ Index | Name | Email | Completed date
 069 | Victoria Green | mongogo2010@outlook.com | 2020-02-19
 070 | Valery Dzyk | dzykland@gmail.com | 2020-02-19
 071 | KrazyKewl Bruce | krazykewlgameztoken@gmail.com | 2020-02-20
+072 | Steven Cabrera Londoño | sevenupsoyo12@gmail.com | 2020-02-20
 
 ## Ongoing participants
 
