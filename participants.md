@@ -72,6 +72,7 @@ Index | Name | Email | Completed date
 068 | JK | houjingkuan1024@outlook.com | 2020-02-18
 069 | Victoria Green | mongogo2010@outlook.com | 2020-02-19
 070 | Valery Dzyk | dzykland@gmail.com | 2020-02-19
+071 | KrazyKewl Bruce | krazykewlgameztoken@gmail.com | 2020-02-20
 
 ## Ongoing participants
 
@@ -106,7 +107,6 @@ Jack Lee      |  tsenchialee@hotmail.com |
 Kashiwayanagi | y.kashiwayanagi@gmail.com |
 Zakorko Bohdan | bogdanzakorko1@gmail.com |
 Milana | milashchetkina@gmail.com |
-KrazyKewl Bruce | krazykewlgameztoken@gmail.com |
 Aldo Urem      | aldo.urem@gmail.com |
 VLAD DUDOFF    | naravideos@gmail.com |
 Dmitry | d.shilin@sigma-it.ru |
