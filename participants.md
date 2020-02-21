@@ -76,6 +76,7 @@ Index | Name | Email | Completed date
 072 | Steven Cabrera Londoño | sevenupsoyo12@gmail.com | 2020-02-20
 073 | Captain Liu | workuseliubin@gmail.com | 2020-02-20
 074 | Kuntanury | kuntanury@gmail.com | 2020-02-20
+075 | Jacky | limaolei.jacky@gmail.com | 2020-02-21
 
 ## Ongoing participants
 
