@@ -77,6 +77,7 @@ Index | Name | Email | Completed date
 073 | Captain Liu | workuseliubin@gmail.com | 2020-02-20
 074 | Kuntanury | kuntanury@gmail.com | 2020-02-20
 075 | Jacky | limaolei.jacky@gmail.com | 2020-02-21
+075 | Denis Pitcher | mail@denispitcher.com | 2020-02-22
 
 ## Ongoing participants
 
@@ -114,7 +115,6 @@ Milana | milashchetkina@gmail.com |
 Aldo Urem      | aldo.urem@gmail.com |
 VLAD DUDOFF    | naravideos@gmail.com |
 Dmitry | d.shilin@sigma-it.ru |
-Denis Pitcher | mail@denispitcher.com |
 Steven Cabrera Londoño | sevenupsoyo12@gmail.com |
 -- | -- |
 Victoria Green| mongogo2010@outlook.com       |
