@@ -77,7 +77,9 @@ Index | Name | Email | Completed date
 073 | Captain Liu | workuseliubin@gmail.com | 2020-02-20
 074 | Kuntanury | kuntanury@gmail.com | 2020-02-20
 075 | Jacky | limaolei.jacky@gmail.com | 2020-02-21
-075 | Denis Pitcher | mail@denispitcher.com | 2020-02-22
+076 | Denis Pitcher | mail@denispitcher.com | 2020-02-22
+077 | Eric He | adhcname@gmail.com | 2020-02-24
+078 | Ekaterina Bukina | misssixty@mail.ru | 2020-02-24
 
 ## Ongoing participants
 
@@ -86,7 +88,6 @@ Name | Email |
 Петр Порошенко   | relomonos12@gmail.com |
 Jack Renfroe   | jackrenfroe@protonmail.com |
 Howard Boelky | howardboelky78@gmail.com |
-Maik schierholz | schierholz@eulibi.de |
 Mustafa khater | khaterm14@gmail.com |
 Alper KILIÇER |alpertunga333@gmail.com |
 Pedro Peñaloza | manfrediscompany@gmail.com |
@@ -115,7 +116,6 @@ Milana | milashchetkina@gmail.com |
 Aldo Urem      | aldo.urem@gmail.com |
 VLAD DUDOFF    | naravideos@gmail.com |
 Dmitry | d.shilin@sigma-it.ru |
-Steven Cabrera Londoño | sevenupsoyo12@gmail.com |
 -- | -- |
 Victoria Green| mongogo2010@outlook.com       |
 Arthemos      | arthemos@163.com              |
