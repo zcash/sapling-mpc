@@ -80,6 +80,8 @@ Index | Name | Email | Completed date
 076 | Denis Pitcher | mail@denispitcher.com | 2020-02-22
 077 | Eric He | adhcname@gmail.com | 2020-02-24
 078 | Ekaterina Bukina | misssixty@mail.ru | 2020-02-24
+079 | Alan | ppb772074568@gmail.com | 2020-02-25
+080 | Moon Liu | june.jk9999@gmail.com | 2020-02-25
 
 ## Ongoing participants
 
