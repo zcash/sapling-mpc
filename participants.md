@@ -82,6 +82,9 @@ Index | Name | Email | Completed date
 078 | Ekaterina Bukina | misssixty@mail.ru | 2020-02-24
 079 | Alan | ppb772074568@gmail.com | 2020-02-25
 080 | Moon Liu | june.jk9999@gmail.com | 2020-02-25
+081 | Jimmy | himalayan.8848.asia@gmail.com | 2020-02-26
+082 | Josie Wang | josie.wang66@gmail.com | 2020-02-27
+083 | Tiffani Yang | yangting950803@gmail.com | 2020-02-28
 
 ## Ongoing participants
 
