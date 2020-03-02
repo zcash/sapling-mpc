@@ -25,7 +25,7 @@ This document is a guide to participate in Multi-party Computation(MPC) phase 2 
       + Memory: 8 GB RAM
       + Storage: 4 GB free Disk storage
       
-&emsp;&emsp;On Windows, please go to [rust](https://www.rust-lang.org/learn/get-started) homepage for installation instruction, then jump to next step.
+&emsp;&emsp;On Windows, please go to [rust](https://www.rust-lang.org/learn/get-started) homepage for installation instruction, then install [Microsoft Visual C++ Build Tools](http://go.microsoft.com/fwlink/?LinkId=691126); at last, jump to next step.
 
 &emsp;&emsp;On Mac, install xcode command line tools first:
 ```

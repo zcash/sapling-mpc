@@ -85,6 +85,7 @@ Index | Name | Email | Completed date
 081 | Jimmy | himalayan.8848.asia@gmail.com | 2020-02-26
 082 | Josie Wang | josie.wang66@gmail.com | 2020-02-27
 083 | Tiffani Yang | yangting950803@gmail.com | 2020-02-28
+084 | Mustafa khater | khatermustafa5@gmail.com | 2020-02-28
 
 ## Ongoing participants
 
@@ -93,7 +94,6 @@ Name | Email |
 Петр Порошенко   | relomonos12@gmail.com |
 Jack Renfroe   | jackrenfroe@protonmail.com |
 Howard Boelky | howardboelky78@gmail.com |
-Mustafa khater | khaterm14@gmail.com |
 Alper KILIÇER |alpertunga333@gmail.com |
 Pedro Peñaloza | manfrediscompany@gmail.com |
 Aditya Vijendea |adityavijendra@gmail.com |
