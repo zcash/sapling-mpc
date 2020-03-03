@@ -86,6 +86,8 @@ Index | Name | Email | Completed date
 082 | Josie Wang | josie.wang66@gmail.com | 2020-02-27
 083 | Tiffani Yang | yangting950803@gmail.com | 2020-02-28
 084 | Mustafa khater | khatermustafa5@gmail.com | 2020-02-28
+085 | Bella Zhao | zling041@gmail.com | 2020-03-02
+086 | Hang Li | li1360214027@gmail.com | 2020-03-02
 
 ## Ongoing participants
 
