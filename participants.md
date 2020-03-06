@@ -88,6 +88,8 @@ Index | Name | Email | Completed date
 084 | Mustafa khater | khatermustafa5@gmail.com | 2020-02-28
 085 | Bella Zhao | zling041@gmail.com | 2020-03-02
 086 | Hang Li | li1360214027@gmail.com | 2020-03-02
+087 | Yana | yana552200@gmail.com | 2020-03-04
+088 | shadow Q | qq07shadow@gmail.com | 2020-03-05
 
 ## Ongoing participants
 
