@@ -91,7 +91,7 @@ Index | Name | Email | Completed date
 087 | Yana | yana552200@gmail.com | 2020-03-04
 088 | shadow Q | qq07shadow@gmail.com | 2020-03-05
 089 | Elon Xu | xuchina67@gmail.com | 2020-03-06
-
+090 | Aldo Urem | aldo.urem@gmail.com | 2020-03-07
 
 ## Ongoing participants
 
