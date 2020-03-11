@@ -92,6 +92,8 @@ Index | Name | Email | Completed date
 088 | shadow Q | qq07shadow@gmail.com | 2020-03-05
 089 | Elon Xu | xuchina67@gmail.com | 2020-03-06
 090 | Aldo Urem | aldo.urem@gmail.com | 2020-03-07
+091 | Zhiqiang Yu | zhiqiangyu.pku@gmail.com | 2020-03-09
+092 | Davi Nunes | davi@edu.unifor.br | 2020-03-11
 
 ## Ongoing participants
 
