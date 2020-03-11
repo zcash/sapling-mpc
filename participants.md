@@ -126,7 +126,6 @@ Jack Lee      |  tsenchialee@hotmail.com |
 Kashiwayanagi | y.kashiwayanagi@gmail.com |
 Zakorko Bohdan | bogdanzakorko1@gmail.com |
 Milana | milashchetkina@gmail.com |
-Aldo Urem      | aldo.urem@gmail.com |
 VLAD DUDOFF    | naravideos@gmail.com |
 Dmitry | d.shilin@sigma-it.ru |
 -- | -- |
