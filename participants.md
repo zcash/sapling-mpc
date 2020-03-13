@@ -96,6 +96,7 @@ Index | Name | Email | Completed date
 092 | Davi Nunes | davi@edu.unifor.br | 2020-03-11
 093 | Red An | hongan2020@outlook.com | 2020-03-12
 094 | Slash Wang | corechords@gmail.com | 2020-03-12
+095 | Roney Charles | roneycharles@edu.unifor.br | 2020-03-13
 
 ## Ongoing participants
 
