@@ -94,6 +94,8 @@ Index | Name | Email | Completed date
 090 | Aldo Urem | aldo.urem@gmail.com | 2020-03-07
 091 | Zhiqiang Yu | zhiqiangyu.pku@gmail.com | 2020-03-09
 092 | Davi Nunes | davi@edu.unifor.br | 2020-03-11
+093 | Red An | hongan2020@outlook.com | 2020-03-12
+094 | Slash Wang | corechords@gmail.com | 2020-03-12
 
 ## Ongoing participants
 
