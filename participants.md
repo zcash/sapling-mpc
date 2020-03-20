@@ -100,6 +100,7 @@ Index | Name | Email | Completed date
 096 | Nico Yang | luoyang103206@gmail.com | 2020-03-16
 097 | Charlie | charlie.liu77@gmail.com | 2020-03-18
 098 | Daimeng Zhang | daimengzhang0330@gmail.com | 2020-03-19
+099 | Iryna Sychuk | mimi.krich@gmail.com | 2020-03-20
 
 ## Ongoing participants
 
