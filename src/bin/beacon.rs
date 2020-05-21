@@ -37,7 +37,10 @@ fn main() {
         use crypto::sha2::Sha256;
         use crypto::digest::Digest;
 
-        // Place block hash here (block number #631130)
+        // Place block hash here (block number #631600)
+        // choose block number BTC #631600 at 2020-05-21 15:00:00 UTC+8
+        // block #631600 generates at ?
+        // generate beacon successfully at ?
         let mut beacon_value: [u8; 32] = hex!("00000000000000000008de28ff08672c5b85add6d51024b90fa9424dadc82691");
 
         // Performs 2^n hash iterations over it
