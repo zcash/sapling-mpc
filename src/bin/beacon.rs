@@ -7,6 +7,8 @@ extern crate byteorder;
 #[macro_use]
 extern crate hex_literal;
 
+extern crate crypto;
+
 use std::fs::File;
 use std::io::{BufWriter, BufReader};
 use blake2_rfc::blake2b::Blake2b;
@@ -32,6 +34,8 @@ fn main() {
         use byteorder::{ReadBytesExt, BigEndian};
         use rand::{SeedableRng};
         use rand::chacha::ChaChaRng;
+        use crypto::sha2::Sha256;
+        use crypto::digest::Digest;
 
         // Place block hash here (block number #631130)
         let mut beacon_value: [u8; 32] = hex!("00000000000000000008de28ff08672c5b85add6d51024b90fa9424dadc82691");
@@ -45,7 +49,7 @@ fn main() {
             // parallelized
             if i % (1u64<<(N-10)) == 0 {
                 print!("{}: ", i);
-                for b in cur_hash.iter() {
+                for b in beacon_value.iter() {
                     print!("{:02x}", b);
                 }
                 println!("");

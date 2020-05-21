@@ -29,6 +29,7 @@ phase2 = "0.2.1"
 pairing = "0.14"
 rand = "0.4"
 blake2-rfc = "0.2"
+rust-crypto = "0.2"
 
 [dependencies.byteorder]
 version = "1"
