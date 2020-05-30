@@ -7,6 +7,8 @@ extern crate byteorder;
 #[macro_use]
 extern crate hex_literal;
 
+extern crate crypto;
+
 use std::fs::File;
 use std::io::{BufWriter, BufReader};
 use blake2_rfc::blake2b::Blake2b;
@@ -32,9 +34,31 @@ fn main() {
         use byteorder::{ReadBytesExt, BigEndian};
         use rand::{SeedableRng};
         use rand::chacha::ChaChaRng;
+        use crypto::sha2::Sha256;
+        use crypto::digest::Digest;
 
-        // Place beacon value here (2^42 SHA256 hash of Bitcoin block hash #534861)
-        let beacon_value: [u8; 32] = hex!("2bf41a959668e5b9b688e58d613b3dcc99ee159a880cf764ec67e6488d8b8af3");
+        // Place block hash here (block number #632240)
+        let mut beacon_value: [u8; 32] = hex!("000000000000000000067f0389c2e1575ecca57ad6f9f4968df52d54903e252a");
+
+        // Performs 2^n hash iterations over it
+        const N: usize = 40;
+
+        for i in 0..(1u64<<N) {
+            // Print 1024 of the interstitial states
+            // so that verification can be
+            // parallelized
+            if i % (1u64<<(N-10)) == 0 {
+                print!("{}: ", i);
+                for b in beacon_value.iter() {
+                    print!("{:02x}", b);
+                }
+                println!("");
+            }
+
+            let mut h = Sha256::new();
+            h.input(&beacon_value);
+            h.result(&mut beacon_value);
+        }
 
         print!("Final result of beacon: ");
         for b in beacon_value.iter() {
