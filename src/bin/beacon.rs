@@ -37,8 +37,8 @@ fn main() {
         use crypto::sha2::Sha256;
         use crypto::digest::Digest;
 
-        // Place block hash here (block number #632240)
-        let mut beacon_value: [u8; 32] = hex!("000000000000000000067f0389c2e1575ecca57ad6f9f4968df52d54903e252a");
+        // Place block hash here (block number #632800)
+        let mut beacon_value: [u8; 32] = hex!("00000000000000000002b7b77db5165aa09d80009c6688bf98746615d9c7ceb2");
 
         // Performs 2^n hash iterations over it
         const N: usize = 40;
