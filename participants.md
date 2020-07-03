@@ -102,42 +102,5 @@ Index | Name | Email | Completed date
 098 | Daimeng Zhang | daimengzhang0330@gmail.com | 2020-03-19
 099 | Iryna Sychuk | mimi.krich@gmail.com | 2020-03-20
 100 | TronLive | admin@tron.live | 2020-03-24
+Random Beacon| - | - | 2020-06-09
  
-## Ongoing participants
-
-Name | Email |
------------- | ------------- |
-Петр Порошенко   | relomonos12@gmail.com |
-Jack Renfroe   | jackrenfroe@protonmail.com |
-Howard Boelky | howardboelky78@gmail.com |
-Alper KILIÇER |alpertunga333@gmail.com |
-Pedro Peñaloza | manfrediscompany@gmail.com |
-Aditya Vijendea |adityavijendra@gmail.com |
-Daniel Boyden | danboyden@me.com|
-Marie Mullarkey | mygreatbeginnings@hotmail.com|
-Carson Koch |  ckoch5661@gmail.com |
-Precious onyekwere | onyekwereprecious47@gmail.com |
-Adrian Acuna | adacuna98@icloud.com |
-Jack Pot | crimeapot@gmail.com |
-Jaco Steyn | jaco@sctgroup.co.za |
-TronLive | admin@tron.live |
-Radmir Safiullin | safiullinrazrab@yahoo.com |
-Haste Drei | hastedrei@gmail.com |
-Mikl May  |  9kaktak@gmail.com | 
-Roman     |  zes333@my.com  |
-Kira      |  x5kira333@yandex.ru |
-卢纪玮   |  lujiwei@msn.com |
-заявка  |  vov-ka@tut.by |
-Danila Petrov |  meikernur@icloud.com |
-Vlad Shulyk   |  vl.shulyk@gmail.com  |
-Jack Lee      |  tsenchialee@hotmail.com |
-Kashiwayanagi | y.kashiwayanagi@gmail.com |
-Zakorko Bohdan | bogdanzakorko1@gmail.com |
-Milana | milashchetkina@gmail.com |
-VLAD DUDOFF    | naravideos@gmail.com |
-Dmitry | d.shilin@sigma-it.ru |
--- | -- |
-Victoria Green| mongogo2010@outlook.com       |
-Arthemos      | arthemos@163.com              |
-Cathy Li      | Shipu.Li@outlook.com          |
-Brown Jiang   | jiangyuanshu2003@gmail.com    |
